@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="shortcut icon" type="image/x-icon" href="https://inveslo.com/assets/img/favicon.ico">
+<link rel="stylesheet" href="https://inveslo.com/assets/css/bootstrap.min.css" />
+<link rel="stylesheet" href="https://inveslo.com/assets/fonts/bootstrap/bootstrap-icons.css">
+
+<link rel="stylesheet" href="https://inveslo.com/assets/css/404.css">
+
+<title>Inveslo :: Page Not Found</title>
+</head>
+
+<body class="errorpage_body">
+    <div class="errorpage_sec text-center">
+                    <div class="errorpage_logo"><a href="https://inveslo.com/en/"><img class="img-fluid" src="https://inveslo.com/assets/img/logo.svg" alt="inveslo"></a></div>
+                    <div class="errorpage_404"><img class="img-fluid" src="https://inveslo.com/assets/img/404-inveslo.svg" alt="404 Inveslo"></div>
+                    <h1 class="errorpage_msg mt-n5">Page not found</h1>
+                    <p class="errorpage_textmsg mt-4">This page does not exist or was removed from the website</p>
+                    <div class="banner_btn_view mt-5 pb-5">
+                        <a class="btn btn-errorpage" href="https://inveslo.com/en/" title="Back To Home"><span>Back to home</span> <i class="bi bi-arrow-right left_right_anim ml-3"></i></a>
+                    </div>
+                    <div class="errorpage_gradiant_bottom d-flex justify-content-center">
+                    <div class="errorpage_gradiant"> </div>  
+                    </div>
+        </div>
+   
+        <script type="text/javascript" src="https://inveslo.com/assets/js/jquery.min.js"></script>
+        <script type="text/javascript" src="https://inveslo.com/assets/js/font-awesome.js"></script>
+        <script type="text/javascript" src="https://inveslo.com/assets/js/bootstrap.bundle.min.js"></script>
+        <script>
+            $(document).ready(function(){
+            setTimeout(function(){
+                $('body').css('min-height', $(window).outerHeight());
+                $('.errorpage_sec').css('min-height', $(window).outerHeight());
+            }, 50);
+            
+            $(window).resize(function(){
+                $('body').css('min-height', $(window).outerHeight());
+                $('.errorpage_sec').css('min-height', $(window).outerHeight());
+            });
+        });
+        </script>
+
+
+</body>
+</html>

@@ -1,0 +1,47 @@
+@font-face{
+    font-family: 'inveslo';
+    src: url('gilroy-light-webfont.woff2') format('woff2'),
+         url('gilroy-light-webfont.woff') format('woff');
+    font-style: normal;
+	font-weight: 300;
+}
+
+@font-face{
+    font-family: 'inveslo';
+    src: url('gilroy-regular-webfont.woff2') format('woff2'),
+         url('gilroy-regular-webfont.woff') format('woff');
+    font-style: normal;
+	font-weight: 400;
+}
+
+@font-face{
+    font-family: 'inveslo';
+    src: url('gilroy-medium-webfont.woff2') format('woff2'),
+         url('gilroy-medium-webfont.woff') format('woff');
+    font-style: normal;
+	font-weight: 500;
+}
+
+@font-face{
+    font-family: 'inveslo';
+    src: url('gilroy-semibold-webfont.woff2') format('woff2'),
+         url('gilroy-semibold-webfont.woff') format('woff');
+    font-style: normal;
+	font-weight: 600;
+}
+
+@font-face{
+    font-family: 'inveslo';
+    src: url('gilroy-bold-webfont.woff2') format('woff2'),
+         url('gilroy-bold-webfont.woff') format('woff');
+    font-style: normal;
+	font-weight: 700;
+}
+
+/*
+font-family: 'inveslo-light';
+font-family: 'inveslo-regular';
+font-family: 'inveslo-medium';
+font-family: 'inveslo-semibold';
+font-family: 'inveslo-bold';
+*/

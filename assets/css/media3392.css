@@ -1,0 +1,4687 @@
+@media(min-width:1366px) {
+    .container {
+        max-width: 100%;
+        padding-left: 2.5rem;
+        padding-right: 2.5rem
+    }
+}
+
+@media(min-width:1600px) {
+    .container {
+        padding-left: 6.78rem;
+        padding-right: 6.78rem
+    }
+}
+
+@media(max-width:1919.98px) {
+    .navbar-nav li a {
+        font-size: 1.14rem;
+        padding: .75rem .6rem
+    }
+
+    .live_spreads_tablist {
+        margin-top: 1.07rem
+    }
+
+    .partner_sec2_inner_right .open_account_heading {
+        font-size: 4.2rem
+    }
+
+    .bg_test {
+        background-size: auto
+    }
+
+    .webinar_top_sec_inner .webinar_top_left {
+        margin-top: -17.5rem
+    }
+
+    .featured_speaker_details {
+        margin-top: -14.5rem
+    }
+
+    .contract_specifications_nav li a {
+        font-size: 1.5rem;
+        padding: 1.07rem 2rem
+    }
+
+    /* .footer_top_left {
+        flex: 0 0 78%;
+        max-width: 78%
+    } */
+
+    /* .footer_top_right {
+        flex: 0 0 22%;
+        max-width: 22%
+    } */
+
+    .footer_social_list {
+        padding-left: 0rem
+    }
+
+    .footer_social_heading {
+        font-size: 1.43rem
+    }
+
+    .footer_social_list li {
+        flex-wrap: wrap
+    }
+
+    .footer_social_list li a {
+        width: 4rem;
+        height: 4rem
+    }
+
+    .logo img,
+    .withdrawals_type_list img,
+    .advance_trading_slides img,
+    .on_news_list_data_icon img,
+    .account_type_heading_icon img,
+    .banner_bottom_tab_heading_view img,
+    .invest_stock_list li img,
+    .toggle_menu_icon img,
+    .account_heading_icon img,
+    .why_inveslo_box_icon img,
+    .inveslo_trusted_icon img,
+    .global_social_trading_icon img,
+    .withdrawal_patterns img,
+    .live_video_slider_thumb img,
+    .article_info_speaker img,
+    .webinar_detail_icon img,
+    .footer_logo img {
+        height: auto
+    }
+
+    .banner_bottom_tab_text {
+        height: 6.6rem
+    }
+
+    .account_type_heading {
+        font-size: 1.7rem
+    }
+}
+
+@media(max-width:1599.98px) {
+    .banner_btn_view img {
+        width: 85% !important;
+        height: auto !important;
+    }
+
+    p.slide_subtitle br {
+        display: none
+    }
+
+    .navigation,
+    .slide_caption_block {
+        padding-left: 2.5rem
+    }
+
+    .slide_title,
+    .section_title,
+    .open_account_heading {
+        font-size: 3.3rem
+    }
+
+    .slide_subtitle {
+        font-size: 1.4rem
+    }
+
+    .why_inveslo_block {
+        padding-left: 0rem
+    }
+
+    .home_banner_sec .tp-tabs-inner-wrapper .tp-tab {
+        padding: 1.5rem 0rem
+    }
+
+    .invest_stock_block {
+        margin-left: -2.5rem
+    }
+
+    .slide_caption_sec .btn {
+        min-width: inherit;
+        min-height: inherit
+    }
+
+    .home_banner_sec .tp-tabs-inner-wrapper {
+        height: 12rem !important
+    }
+
+    .why_inveslo_box_content_heading {
+        font-size: 2.28rem
+    }
+
+    .account_heading_view {
+        font-size: 1.28rem
+    }
+
+    .banner_bottom_tab_heading_view {
+        font-size: 1.43rem;
+        padding: 1.65rem 0rem
+    }
+
+    .banner_bottom_tab_sec:hover .banner_bottom_tab_heading_view {
+        padding: 1.65rem 0rem
+    }
+
+    .why_trade_list_icon,
+    .choose_inveslo_icon img {
+        min-width: 4rem;
+        width: 4rem
+    }
+
+    .why_trade_list_numberview {
+        font-size: 3rem
+    }
+
+    .why_trade_list_text {
+        font-size: 1.07rem
+    }
+
+    .choose_inveslo_block_heading {
+        font-size: 1.5rem
+    }
+
+    .choose_inveslo_block_text {
+        font-size: 1.28rem
+    }
+
+    .principle_block_right {
+        min-height: 35rem;
+        padding-left: 13.5rem
+    }
+
+    .trusted_around_list_view li {
+        min-height: 18rem
+    }
+
+    .principle_circle_logo_block {
+        min-width: 28rem;
+        height: 28rem;
+        padding: 2rem
+    }
+
+    .principle_left_logo {
+        width: 20rem;
+        left: -8rem
+    }
+
+    .our_team_sliders .slick-arrow {
+        top: -4.5rem
+    }
+
+    .open_account_sub_heading {
+        font-size: 2.5rem
+    }
+
+    .partner_sec2_inner_right h2.open_account_heading {
+        font-size: 3.2rem
+    }
+
+    .webinar_top_sec_inner .top_section_title {
+        font-size: 3.5rem
+    }
+
+    .webinar_top_right .webinar_top_right_right {
+        width: 35%
+    }
+
+    .featured_speaker_details {
+        margin-top: -12.5rem
+    }
+
+    .webinar_top_sec_inner .webinar_top_left {
+        width: 28%;
+        margin-top: -18.5rem
+    }
+
+    .copy_trading_subheading {
+        font-size: 1.6rem
+    }
+
+    .copy_trading_text {
+        font-size: 1.28rem
+    }
+
+    .copytrading_inveslo_right_title {
+        font-size: 2rem
+    }
+
+    .copytrading_inveslo_sec,
+    .copy_someone_sec {
+        padding: 6.5rem 0rem
+    }
+
+    .copy_someone_sec .copy_trading_text {
+        max-width: 100%
+    }
+
+    .copy_someone_list_icon {
+        width: 6.57rem
+    }
+
+    .copy_someone_list_heading {
+        font-size: 1.8rem
+    }
+
+    .copy_someone_list_text {
+        font-size: 1.14rem;
+        line-height: 2.2rem
+    }
+
+    .copy_someone_list li {
+        min-height: 30rem;
+        padding: 3.5rem 2.14rem
+    }
+
+    .open_account_step_view .step_slide_list.slick-current .account_heading_view {
+        font-size: 2rem;
+        line-height: 3rem
+    }
+
+    .account_text_view {
+        font-size: 1.28rem;
+        line-height: 2rem
+    }
+
+    .open_account_sec,
+    .live_spreads_sec,
+    .account_type_sec {
+        min-height: 30rem
+    }
+
+    .live_spreads_left,
+    .live_spreads_right {
+        flex: 0 0 20%;
+        max-width: 20%
+    }
+
+    .live_spreads_right {
+        flex: 0 0 75%;
+        max-width: 75%;
+        margin-left: 5%
+    }
+
+    .live_spreads_icon img {
+        max-width: 15rem;
+        width: 15rem
+    }
+
+    .invest_stock_box {
+        padding-left: 0rem
+    }
+
+    .invest_stock_list {
+        padding: 1.5rem 2.5rem
+    }
+
+    .invest_stock_list li {
+        margin-left: 2.5rem
+    }
+
+    .invest_stock_list li img {
+        width: 9.5rem
+    }
+
+    .account_type_view_left {
+        min-width: 22rem;
+        width: 22rem
+    }
+
+    .account_type_view_right {
+        padding-left: 2.5rem
+    }
+
+    .account_type_heading,
+    .adv_trading_data_heading {
+        font-size: 1.65rem
+    }
+
+    .global_leader_block {
+        background-size: auto 82%
+    }
+
+    .advance_trading_thumbnails .adv_trading_icon {
+        min-width: 13.5rem;
+        max-width: 13.5rem
+    }
+
+    .adv_trading_data_text {
+        font-size: 1.14rem
+    }
+
+    .advance_trading_thumbnails .adv_trading_data {
+        min-height: 9.5rem !important
+    }
+
+    .inveslo_trusted_icon {
+        width: 28rem;
+        min-width: inherit
+    }
+
+    .inveslo_trusted_text {
+        max-width: 55%
+    }
+
+    .open_account_bottom_bar .btn,
+    .inveslo_trusted_sec .btn {
+        min-width: 22rem;
+        min-height: 6.28rem
+    }
+
+    .inveslo_trusted_left {
+        min-width: 70%;
+        max-width: 70%
+    }
+
+    .inveslo_trusted_right {
+        min-width: 30%;
+        max-width: 30%
+    }
+
+    .on_news_slides_box {
+        margin-bottom: 6.2rem
+    }
+
+    .news_slider_arrow a,
+    .live_video_slider_list .slick-arrow,
+    .market_value_slider .slick-arrow {
+        width: 5rem;
+        height: 6rem
+    }
+
+    .on_news_slides .slide_count {
+        bottom: 1.5rem;
+        left: 13rem
+    }
+
+    .live_video_slider_list .slick-arrow {
+        bottom: -4.5rem
+    }
+
+    .live_video_slider_thumb {
+        width: 13rem;
+        min-width: 13rem;
+        height: 12.35rem
+    }
+
+    .contract_specifications_nav li a {
+        min-height: 6.5rem;
+        font-size: 1.43rem
+    }
+
+    .contract_specifications_table thead td,
+    .contract_specifications_table tbody td,
+    .table_note_text {
+        font-size: 1.14rem
+    }
+
+    .accounts_comparison_right_acd .account_type_list>li {
+        align-items: flex-start
+    }
+
+    .accounts_comparison_right_acd .account_type_price_view,
+    .accounts_comparison_right_acd .account_type_list_btn {
+        align-self: center
+    }
+
+    .accounts_comparison_right_acd .account_type_list>li.selected,
+    .accounts_comparison_right_acd .account_type_list li.selected .account_type_heading_view {
+        align-content: flex-start
+    }
+
+    .theme_bg .table tr td,
+    .theme_bg .table tr th {
+        font-size: 1.43rem
+    }
+
+    .on_news_list_sec {
+        margin-top: 2.5rem
+    }
+
+    .on_news_list_data_block {
+        padding: 0rem
+    }
+
+    .on_news_list_arrow_link {
+        margin-top: .65rem
+    }
+
+    .intro_forex_right,
+    .intro_forex_right_image_view {
+        padding-left: 30px
+    }
+
+    .intro_forex_right_image_view img {
+        min-width: 18rem
+    }
+
+    .intro_forex_link_list {
+        margin-top: -19rem
+    }
+
+    .intro_forex_link_list li a {
+        min-height: 7.5rem;
+        font-size: 1.5rem;
+        padding: 2.5rem 2.5rem;
+        padding-right: 2.5rem
+    }
+
+    .market_participants_subheading,
+    .utc_time_heading {
+        font-size: 1.65rem
+    }
+
+    .sub_menu_icon {
+        width: auto;
+        min-width: initial;
+        height: 3rem;
+        margin-right: 5px
+    }
+
+    .sub_menu_icon img {
+        min-width: 2rem;
+        width: 2rem
+    }
+
+    .on_news_design_sec .on_news_tabs_sec {
+        min-width: 48%;
+        max-width: 48%
+    }
+
+    .on_news_list_sec li {
+        padding: 15px
+    }
+
+    .on_news_block {
+        padding-left: 20px
+    }
+
+    .forex_market_participants .market_history_thumbnail_img {
+        width: 100%;
+        object-fit: contain
+    }
+
+    .utc_time_standard {
+        margin-left: 8rem
+    }
+
+    .market_utc_time {
+        margin-left: -2rem
+    }
+
+    .market_hubs_img {
+        width: 5rem
+    }
+
+    .market_hubs_tray_right {
+        margin-left: 8rem
+    }
+
+    .market_hubs_tray_left {
+        width: 19rem
+    }
+
+    .risk_cal_sec,
+    span.example {
+        font-size: 1.43rem
+    }
+
+    .paragraph_width_75 {
+        width: 85%
+    }
+
+    .spread_fx_tradingg_concept {
+        padding-top: 0rem
+    }
+
+    .webinar_learn_forex_sec .choose_inveslo_block_text {
+        padding-right: 0rem
+    }
+
+    .invest_stock_list_full_block {
+        width: 78rem;
+        margin-left: -3.78rem
+    }
+
+    .invest_stock_list_full_block .invest_stock_list {
+        padding: 3rem 3.39rem 3rem 1.36rem
+    }
+
+    .invest_stock_list_full_block .invest_stock_list li {
+        margin-left: 2rem
+    }
+
+    .market_analysis_sec .subtext_fx li {
+        width: 100%
+    }
+
+    .subtext_fx li {
+        font-size: 1.43rem
+    }
+
+    .plan_your_trad_box li {
+        min-height: 8.5rem;
+        font-size: 1.75rem
+    }
+
+    .forex_news_block .webinar_detail_text span {
+        display: block;
+        padding-left: 0rem !important
+    }
+
+    .bottom_time_block .time_block li {
+        padding: 13px 5px
+    }
+
+    .webinar_detail_text {
+        font-size: 1.28rem
+    }
+
+    .technical_analysis_block .article_detail_view {
+        padding: 0
+    }
+
+    .analysis_video_article_slider_block {
+        margin-left: 5.5rem;
+        margin-right: 5.5rem;
+        margin-bottom: 5.5rem
+    }
+
+    .analysis_top_block {
+        padding: 30px
+    }
+
+    .analysis_icon {
+        width: 10rem;
+        min-width: 10rem
+    }
+
+    .analysis_desc_view {
+        padding-left: 20px
+    }
+
+    .analysis_desc_title {
+        font-size: 3.2rem
+    }
+
+    .analysis_desc {
+        max-width: 65ch;
+        font-size: 1.14rem
+    }
+
+    .analysis_top_btn {
+        font-size: 1.57rem
+    }
+
+    .analysis_video_article_slider_image {
+        height: 12.5rem
+    }
+
+    .analysis_video_thumb_play_icon {
+        width: 80px;
+        height: 80px
+    }
+
+    .analysis_video_thumb_play_icon>span {
+        font-size: 2rem
+    }
+
+    .analysis_video_thumb_play_icon>span:before {
+        width: 38px;
+        height: 38px
+    }
+
+    .analysis_video_article_desc {
+        font-size: 1.28rem;
+        font-weight: 400;
+        margin: 20px
+    }
+
+    .analysis_video_article_slider_title {
+        font-size: 1.43rem
+    }
+
+    .analysis_video_article_btn {
+        min-height: 4.3rem;
+        font-size: 1.57rem;
+        margin-top: 2.14rem
+    }
+
+    .fx_street_icon {
+        width: 5rem
+    }
+
+    .investingcom_icon {
+        width: 11.5rem
+    }
+
+    .analysis_article_detail_block .analysis_article_block {
+        margin: 0 2.5rem 1.5rem
+    }
+
+    .webinar_bottom .choose_inveslo_list .choose_inveslo_list_block {
+        padding: 25px
+    }
+
+    .past_webinar_thumbnail_sec {
+        height: 14.5rem
+    }
+
+    .webinar_bottom .choose_inveslo_block_heading {
+        font-size: 1.43rem
+    }
+
+    .article_nav_wrapper {
+        min-width: 28.14rem;
+        max-width: 28.14rem
+    }
+
+    .article_details_wrapper {
+        max-width: calc(100% - 28.14rem)
+    }
+
+    .article_nav_wrapper .article_nav_list_firstitem,
+    .article_nav_wrapper .article_nav_list_items a {
+        font-size: 1.5rem;
+        padding: 2rem 4.04rem
+    }
+
+    .article_nav_wrapper .article_nav_list_firstitem {
+        margin: 0
+    }
+
+    .article_nav_wrapper .article_nav_sublist_items {
+        font-size: 1.28rem
+    }
+
+    .latest_article_wrapper_sec {
+        margin: 1.5rem
+    }
+
+    .recentarticles_images {
+        max-width: 9.71rem;
+        min-width: 9.71rem;
+        height: 8.29rem
+    }
+
+    .recentarticles_wrapper .recentarticles_short_details {
+        font-size: 1.28rem;
+        margin: 5px 0;
+        max-width: 20ch;
+        white-space: break-spaces
+    }
+
+    .article_details_wrapper .stort_summary_heading {
+        font-size: 2rem
+    }
+
+    .regulatorybox_inner_wrapper .certificate_details .box_heading {
+        font-size: 1.85rem
+    }
+
+    .regulatorybox_inner_wrapper .certificate_details .box_text {
+        font-size: 1.07rem
+    }
+
+    .gold-section {
+        padding-left: 2.5rem;
+        padding-right: 2.5rem
+    }
+
+    .gold-pic_block {
+        padding: 2.14rem
+    }
+
+    .trustpilot-footer .financial_footer_logo {
+        flex: 35%
+    }
+
+    .trustpilot-footer .trustpilot-logo {
+        flex: 50%
+    }
+}
+
+@media(max-width:1439.98px) {
+    .navbar-nav li a {
+        font-size: 1.07rem
+    }
+
+    .navbar-nav li a.btn {
+        padding: .8rem 1.07rem !important
+    }
+
+    .invest_stock_block {
+        min-height: 8rem
+    }
+
+    .invest_stock_box {
+        padding-left: 0rem
+    }
+
+    .invest_stock_list li img {
+        width: 8rem
+    }
+
+    .open_account_bottom_bar {
+        width: 65%
+    }
+
+    .view_all_spreads_sec .btn,
+    .inveslo_trusted_sec .btn {
+        min-width: 16rem;
+        min-height: 4.5rem
+    }
+
+    .slide_title,
+    .section_title,
+    .open_account_heading,
+    .inveslo_trusted_text .open_account_heading {
+        font-size: 2.6rem;
+        line-height: normal
+    }
+
+    .slide_title small,
+    .section_title small,
+    .open_account_heading small {
+        font-size: 40%
+    }
+
+    .slide_caption_block .btn {
+        min-width: 15rem
+    }
+
+    .home_banner_sec .tp-tabs-inner-wrapper {
+        height: 12.34rem !important
+    }
+
+    .account_heading_view {
+        font-size: 1.14rem
+    }
+
+    .banner_bottom_tab_sec {
+        transform: translateY(12.2rem)
+    }
+
+    .open_account_step_view li.selected .account_heading_view {
+        font-size: 1.6rem
+    }
+
+    .banner_bottom_tab_text {
+        height: 7.9rem
+    }
+
+    .advance_trading_thumbnails li {
+        width: 100% !important
+    }
+
+    .live_spreads_tablist li {
+        padding: 0rem 0rem
+    }
+
+    .live_spreads_tablist li .nav-link {
+        font-size: 1.28rem
+    }
+
+    .live_spreads_tablist {
+        margin-top: 3rem
+    }
+
+    .account_type_view_left {
+        min-width: 16rem;
+        width: 16rem
+    }
+
+    .account_type_view_right {
+        padding-left: 2.5rem
+    }
+
+    .account_type_heading {
+        font-size: 1.7rem
+    }
+
+    .account_type_price_view li {
+        font-size: 1.6rem
+    }
+
+    .account_type_price_view li small {
+        font-size: 60%
+    }
+
+    .account_type_heading_view,
+    .account_type_price_view li,
+    .account_type_list_btn {
+        padding: 1.3rem 1rem
+    }
+
+    .accounts_comparison_right.accounts_comparison_right_acd .account_type_price_view li {
+        padding-left: 2.5rem
+    }
+
+    .account_type_list_btn .btn {
+        height: 4rem
+    }
+
+    .global_leader_block {
+        min-height: inherit;
+        background-size: 30rem;
+        padding: 2.5rem 1.5rem
+    }
+
+    .global_social_trading_heading {
+        font-size: 1.6rem
+    }
+
+    .global_social_trading_text {
+        font-size: 1.14rem
+    }
+
+    .global_leader_bottom_list li {
+        font-size: 2.5rem
+    }
+
+    .global_leader_bottom_list li small {
+        font-size: 42%
+    }
+
+    .inveslo_trusted_icon {
+        min-width: 22rem
+    }
+
+    .on_news_tabs_sec {
+        min-width: 13rem
+    }
+
+    .on_news_slides_box_heading {
+        font-size: 1.8rem
+    }
+
+    .on_news_slides_box_heading_view {
+        padding: 2rem 2rem 1.5rem
+    }
+
+    .on_news_slides_count_likes_view {
+        margin-top: 1.5rem
+    }
+
+    .live_video_slider_thumb {
+        width: 14rem;
+        min-width: 14rem;
+        height: 13rem
+    }
+
+    .video_news_block_heading {
+        font-size: 1.8rem
+    }
+
+    .live_video_slider_text {
+        font-size: 1.14rem
+    }
+
+    .footer_logo {
+        min-width: 10.5rem
+    }
+
+    .ready_join_box>span {
+        font-size: 3rem
+    }
+
+    .ready_join_box>span small {
+        font-size: 32%
+    }
+
+    .contract_specifications_nav li a {
+        min-height: 5.5rem;
+        font-size: 1.28rem
+    }
+
+    .contract_specifications_nav li:before {
+        height: 2.2rem
+    }
+
+    .accounts_comparison_right .account_type_heading_view,
+    .accounts_comparison_right.accounts_comparison_right_acd .account_type_heading_view {
+        min-width: 20.5rem
+    }
+
+    .accounts_comparison_right .account_type_heading {
+        font-size: 1.5rem
+    }
+
+    .accounts_comparison_right .account_type_list_btn {
+        min-width: 17.5rem
+    }
+
+    .deposit_withdrawal_type {
+        margin-right: 1.5rem
+    }
+
+    .open_account_sub_heading {
+        font-size: 1.8rem
+    }
+
+    .toggle_menu_list {
+        padding: 1.5rem 1.5rem
+    }
+
+    .toggle_menu_icon {
+        min-width: 5rem
+    }
+
+    .toggle_menu_btn span {
+        left: 8.57rem
+    }
+
+    .toggle_menu_title {
+        font-size: 1.8rem
+    }
+
+    .advance_trading_thumbnails2 li {
+        width: 100% !important
+    }
+
+    .earn_partner_block {
+        padding-right: 0rem
+    }
+
+    .earn_partner_block h3 {
+        font-size: 2rem
+    }
+
+    .partner_sec2_inner_right h2.open_account_heading {
+        font-size: 3.2rem
+    }
+
+    .partner_sec2_inner_left {
+        width: 45%
+    }
+
+    .partner_sec2_inner_right {
+        width: 55%
+    }
+
+    .adv_trading_data_heading {
+        font-size: 1.43rem
+    }
+
+    .earn_partner_sec_inner .earn_partner_block_img img {
+        max-width: 8rem
+    }
+
+    .earn_partner_sec_inner .earn_partner_block_img {
+        right: -2.5rem
+    }
+
+    .py-8 {
+        padding-top: 5rem;
+        padding-bottom: 5rem
+    }
+
+    .webinar_top_sec_inner .top_section_title {
+        font-size: 2.8rem
+    }
+
+    .webinar_top_sec_inner .top_section_text {
+        font-size: 1.28rem
+    }
+
+    .featured_speaker_details {
+        margin-top: -11.25rem;
+        padding: 2rem
+    }
+
+    .webinar_learn_forex_sec .choose_inveslo_block_heading {
+        font-size: 1.5rem
+    }
+
+    .webinar_top_sec_inner .webinar_top_left {
+        width: 30%;
+        margin-top: -20.5rem;
+        padding: 2rem
+    }
+
+    .webinar_top_sec_inner .bottom_time_block {
+        padding: 0rem 2rem 2rem
+    }
+
+    .copy_trading_subheading {
+        font-size: 1.43rem
+    }
+
+    .open_account_bottom_bar .btn {
+        min-height: 6.5rem;
+        min-width: 22.5rem
+    }
+
+    .global_leader_block {
+        background-image: none !important
+    }
+
+    .text_formula_sec {
+        display: block
+    }
+
+    .text_formula_sec .copy_trading_text.seprator {
+        display: none
+    }
+
+    .text_formula_sec .copy_trading_text strong {
+        font-size: 1.43rem
+    }
+
+    .market_history_thumbnail_view .market_history_thumbnail_img {
+        object-fit: contain
+    }
+
+    .forex_market_participants_heading {
+        font-size: 2.2rem
+    }
+
+    .market_hubs_tray_left {
+        width: 18rem
+    }
+
+    .utc_time_standard {
+        width: 65%
+    }
+
+    .plan_your_trad_list .educationals_definition_title {
+        font-size: 1.57rem
+    }
+
+    .table_heading {
+        font-size: 1.85rem
+    }
+
+    .invest_stock_list .slick-slide img {
+        width: 8rem
+    }
+
+    .forex_news_full_view .live_video_slider_thumb {
+        min-width: 35rem;
+        width: 35rem;
+        height: 25rem
+    }
+
+    .forex_news_maltiple_view .live_video_slider_thumb {
+        height: 15rem
+    }
+
+    .forex_news_full_view .live_video_slider_text {
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        display: -webkit-box;
+        overflow: hidden
+    }
+
+    .analysis_icon {
+        width: 8rem;
+        min-width: 8rem
+    }
+
+    .analysis_desc_title {
+        font-size: 2.64rem
+    }
+
+    .analysis_desc {
+        max-width: 75ch
+    }
+
+    .analysis_top_block {
+        margin-bottom: 2rem
+    }
+
+    .analysis_top_btn {
+        min-width: 14.5rem;
+        min-height: 7.8rem;
+        font-size: 1.43rem
+    }
+
+    .analysis_top_block:before {
+        border-width: 2.3rem;
+        left: 2.28rem;
+        bottom: -2rem
+    }
+
+    .article_nav_wrapper {
+        min-width: 23.14rem;
+        max-width: 23.14rem
+    }
+
+    .article_details_wrapper {
+        max-width: calc(100% - 23.14rem)
+    }
+
+    .recentarticles_wrapper {
+        margin-bottom: 1.28rem
+    }
+
+    .gold-section {
+        padding-left: 2rem;
+        padding-right: 2rem
+    }
+
+    .gold-pic_block {
+        padding: 2.14rem
+    }
+
+    .gold-pic_block h3 {
+        font-size: 2.1rem
+    }
+
+    .gold-pic_block p {
+        font-size: 1.14rem
+    }
+
+    .gold-pic_block .footer-date,
+    .gold-pic_block a.read-more {
+        font-size: 1.14rem
+    }
+
+    .gold-pic_block .ruler-b {
+        margin: 1.75rem 0;
+        margin-bottom: 1.5rem
+    }
+
+    .technical_analysis_block .analysis_video_thumb_play_icon {
+        width: 70px;
+        height: 70px
+    }
+
+    .global-bg .right-img {
+        max-width: 35%
+    }
+
+    .footer_logo.newftr-logo {
+        max-width: 16.42rem;
+    }
+}
+
+@media(max-width:1365.98px) {
+    html {
+        font-size: 13px
+    }
+
+    .navbar-nav li a {
+        font-size: .9rem
+    }
+
+    .on_news_slides_box_heading_view {
+        padding: 2.5rem 2rem 2rem
+    }
+
+    .on_news_slides_count_likes_view {
+        margin-top: 2rem
+    }
+
+    .ready_join_block {
+        padding: 4rem 5rem
+    }
+
+    .why_trade_list_view {
+        min-width: 42%
+    }
+
+    .why_trade_right_block {
+        padding-left: 5rem
+    }
+
+    .nav_dropdown.treelayer ul {
+        min-width: 20rem
+    }
+
+    .intro_forex_link_list li a {
+        min-height: inherit
+    }
+
+    .intro_forex_link_list {
+        min-width: 28.5rem;
+        max-width: 28.5rem;
+        padding-bottom: 0rem;
+        margin-top: -18.4rem
+    }
+
+    .intro_forex_right {
+        min-width: calc(100% - 28.5rem);
+        width: calc(100% - 28.5rem)
+    }
+
+    .market_history_sec,
+    .market_value_sec,
+    .market_participants_sec,
+    .related_articles_sec {
+        padding: 5.5rem 0rem
+    }
+
+    .market_history_block {
+        margin-left: -15px;
+        margin-right: -15px
+    }
+
+    .market_history_left,
+    .market_history_right {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+
+    .market_participants_working_hours_list {
+        max-width: calc(100% + 30px)
+    }
+
+    .market_participants_working_hours_list li {
+        min-width: calc(50% - 30px);
+        max-width: calc(50% - 30px);
+        margin: 15px
+    }
+
+    .market_participants_sec .copy_trading_text,
+    .paragraph_width_80 {
+        max-width: 100%
+    }
+
+    .utc_time_block {
+        padding: 30px;
+        margin-top: 40px
+    }
+
+    .related_articles_list,
+    .related_articles_view_all_link {
+        margin-top: 30px
+    }
+
+    .inveslo_trusted_icon {
+        width: 22rem
+    }
+
+    .inveslo_trusted_text {
+        min-width: inherit
+    }
+
+    .deposit_withdrawal_tabs_block:before {
+        height: 3rem
+    }
+
+    .deposit_withdrawal_tab_link li,
+    .deposit_withdrawal_list>li {
+        min-height: inherit
+    }
+
+    .deposit_withdrawal_tab_link li a {
+        font-size: 1.65rem
+    }
+
+    .live_spreads_block>li {
+        min-width: calc(50% - 28px);
+        max-width: calc(50% - 28px)
+    }
+
+    .on_news_list_data_icon {
+        min-width: 3.8rem;
+        width: 3.8rem;
+        margin-right: 10px
+    }
+
+    .on_news_list_data_text {
+        font-size: 13px
+    }
+
+    .on_news_list_data_textheading,
+    .on_news_list_arrow_link i {
+        font-size: 15px
+    }
+
+    .footer_top_left {
+        flex: 0 0 75%;
+        max-width: 75%
+    }
+
+    .footer_top_right {
+        padding-top: 2.5rem;
+        flex: 0 0 25%;
+        max-width: 25%
+    }
+
+    .footer_menu {
+        border-right: 0;
+        padding-right: 0rem
+    }
+
+    .plan_your_trad_box li {
+        min-height: 8.85rem
+    }
+
+    .article_info_speaker {
+        min-width: 4rem;
+        width: 4rem
+    }
+
+    .article_info_speaker_name {
+        font-size: 16px;
+        margin-bottom: 5px
+    }
+
+    .article_info_speaker_desigation {
+        font-size: 13px
+    }
+
+    .article_link,
+    .article_info_desc .webinar_detail_text {
+        font-size: 14px
+    }
+
+    .contract_specifications_nav li a {
+        padding: 1.07rem 1.43rem
+    }
+
+    .banner_bottom_tab_text {
+        height: 6.5rem
+    }
+
+    .analysis_article_detail_block .analysis_article_block {
+        margin: 0 0rem 0rem
+    }
+
+    .analysis_article_detail_block h1,
+    .analysis_article_detail_block h2,
+    .analysis_article_detail_block h3,
+    .analysis_article_detail_block h4,
+    .analysis_article_detail_block h5,
+    .analysis_article_detail_block h6 {
+        margin-bottom: 15px
+    }
+
+    .analysis_article_detail_block h2 {
+        font-size: 2.2rem
+    }
+
+    .analysis_article_detail_block p {
+        font-size: 1.28rem;
+        margin-bottom: 20px
+    }
+
+    .gold-pic_block h3 {
+        font-size: 1.57rem
+    }
+
+    .gold-pic_block p {
+        font-size: 1.14rem
+    }
+
+    .gold-pic_block .footer-date,
+    .gold-pic_block a.read-more {
+        font-size: 1.14rem
+    }
+
+    .gold-pic_block .ruler-b {
+        margin: 1.75rem 0;
+        margin-bottom: 1.5rem
+    }
+
+    .analysis_block_partner .posted-text {
+        font-size: 1.75rem
+    }
+
+    .footer_topsec_newblock .footer_top_left {
+        max-width: 65%;
+        flex: 0 0 65%;
+    }
+
+    .footer_topsec_newblock .footer_top_right {
+        max-width: 35%;
+        flex: 0 0 35%;
+        padding-top: 0px;
+    }
+
+    .cardfooter_body {
+        max-width: 100%;
+    }
+}
+
+@media(max-width:1199.98px) {
+    html {
+        font-size: 12px
+    }
+
+    .navigation {
+        min-height: 6.5rem;
+        padding-left: 0rem
+    }
+
+    .header_menu_burger {
+        margin: 0
+    }
+
+    .navigation nav,
+    .slide_caption_block {
+        max-width: 960px;
+        width: 100%;
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+        margin-left: auto;
+        margin-right: auto
+    }
+
+    .side_menu_bar {
+        width: 6.72rem;
+        min-width: inherit;
+        height: 3.5rem;
+        position: static
+    }
+
+    .language_view {
+        min-width: inherit;
+        width: auto;
+        position: static;
+        border-bottom: 0;
+        margin-left: auto
+    }
+
+    .language_view li.nav-item .dropdown_toggle::after {
+        left: auto;
+        right: 1.5rem;
+        margin-right: 0rem;
+        margin-left: .65rem
+    }
+
+    .navigation.fixed-top .language_view,
+    .navigation.fixed-top .side_menu_bar {
+        min-height: inherit;
+        border-left: 1px solid transparent
+    }
+
+    .home_banner_sec {
+        overflow: visible;
+        display: flex;
+        align-items: center
+    }
+
+    .slide_caption_block.without_banner_bottom_tab {
+        padding-top: 6.5rem
+    }
+
+    .home_banner_sec .rev_slider_wrapper,
+    .home_banner_sec .rev_slider {
+        height: 70rem !important
+    }
+
+    .home_banner_sec .tp-tabs-inner-wrapper {
+        height: 6rem !important
+    }
+
+    .home_banner_sec .tp-tabs-inner-wrapper .tp-tab {
+        height: 18px !important;
+        opacity: 1;
+        padding: .2rem 0rem
+    }
+
+    .home_banner_sec .tp-tabs {
+        min-width: inherit;
+        width: 3rem;
+        border-left: 0rem;
+        display: none !important;
+        visibility: visible !important
+    }
+
+    .home_banner_sec .tp-tabs-inner-wrapper span {
+        width: 13px !important;
+        min-height: inherit;
+        height: 13px;
+        border-radius: 50%;
+        background-color: #fff;
+        text-indent: -9999px;
+        border-left: 0;
+        padding: 0
+    }
+
+    .home_banner_sec .tp-tabs-inner-wrapper .tp-tab.selected span {
+        background: #ed1c58;
+        box-shadow: 0 4px 4px rgb(0 0 0 / 25%)
+    }
+
+    .slide_caption_block {
+        width: 100%;
+        position: static;
+        text-align: center;
+        top: 0;
+        left: 0;
+        transform: translate(0, 0);
+        padding-left: 0rem;
+        padding-top: 8.5rem;
+        padding-bottom: 8.5rem
+    }
+
+    .slide_caption_sec {
+        max-width: 100%;
+        width: 100%
+    }
+
+    .home_banner_sec .slotholder {
+        display: none !important
+    }
+
+    .mobile_home_banner {
+        display: block !important
+    }
+
+    .mobile_home_banner .mobile_banner_img {
+        width: 30rem !important;
+        height: auto !important
+    }
+
+    .banner_btn_view {
+        margin-top: 2.5rem
+    }
+
+    .down_sec_arrow {
+        width: 5.5rem;
+        height: 5.5rem;
+        right: 1.5rem;
+        bottom: 8rem
+    }
+
+    .down_sec_arrow img {
+        width: 1.78rem
+    }
+
+    .banner_bottom_tab_sec {
+        width: 100%
+    }
+
+    .account_type_sec {
+        min-height: 45rem
+    }
+
+    .global_leader_block {
+        background-position: left bottom -1px
+    }
+
+    .footer_menu {
+        border-right: 0rem
+    }
+
+    .products_banner_captions {
+        position: static;
+        transform: translate(0, 0)
+    }
+
+    .products_banner_captions .mobile_home_banner .mobile_banner_img {
+        width: 45rem !important
+    }
+
+    .deposit_withdrawal_list>li {
+        display: block
+    }
+
+    .deposit_withdrawal_info li {
+        margin: 2rem 0rem
+    }
+
+    .accounts_comparison_block_reverse1199 {
+        flex-direction: column-reverse
+    }
+
+    .accounts_comparison_right .account_type_list>li {
+        margin-bottom: 2.5rem
+    }
+
+    .accounts_comparison_selected_arrow {
+        width: calc(100% + 3px);
+        height: 2px;
+        top: auto;
+        bottom: 0;
+        left: -3px;
+        z-index: 2
+    }
+
+    .accounts_comparison_selected_arrow:after {
+        top: -4px;
+        left: 50%;
+        transform: rotate(90deg)
+    }
+
+    .accounts_comparison_right .account_type_list>li.selected,
+    .accounts_comparison_right .account_type_list>li:hover {
+        border-color: #3721a7
+    }
+
+    .choose_inveslo_list_3block li {
+        max-width: 50%
+    }
+
+    .toggle_menu_title {
+        font-size: 1.8rem
+    }
+
+    .toggle_menu_list li {
+        min-width: 50%;
+        max-width: 50%
+    }
+
+    .navigation.mobile_toggle_header {
+        background: linear-gradient(255.3deg, #2d2e43 1.2%, #000 95.31%), #2d2e43;
+        border-bottom: 1px solid #696a77
+    }
+
+    .web_toggle_menu {
+        height: 100%;
+        transform: translateX(-110%);
+        padding-left: 0rem;
+        padding-right: 0rem;
+        padding-top: 9rem;
+        z-index: 998
+    }
+
+    .web_toggle_menu.show {
+        transform: translateX(0);
+        overflow: auto
+    }
+
+    .web_toggle_menu .navbar {
+        min-height: initial;
+        border-bottom: 0;
+        float: left
+    }
+
+    .toggle_menu_list,
+    .toggle_menu_logo,
+    .toggle_menu_close_view,
+    .toggle_menu_chat {
+        display: none !important
+    }
+
+    .web_toggle_menu .navbar-nav,
+    .web_toggle_menu .navbar-nav li {
+        width: 100%;
+        float: left;
+        display: flex;
+        flex-wrap: wrap
+    }
+
+    .web_toggle_menu .navbar-nav li a {
+        font-size: 1.43rem;
+        flex: 1;
+        padding: 1.2rem 1.07rem !important
+    }
+
+    .web_toggle_menu .navbar-nav li.mobile_toggle_menu {
+        padding: 0rem 0rem !important
+    }
+
+    .mobile_toggle_menu ul {
+        width: 100%;
+        float: left
+    }
+
+    .mobile_toggle_menu ul li {
+        display: block !important;
+        background-color: rgba(0, 0, 0, .2);
+        margin-bottom: 1px
+    }
+
+    .web_toggle_menu .mobile_toggle_menu ul li a i.bi-arrow-right {
+        font-size: 1.3rem
+    }
+
+    .mobile_toggle_menu ul li li {
+        background-color: transparent;
+        border-top: 1px solid rgba(255, 255, 255, .2);
+        padding: 0rem 0rem !important;
+        margin-bottom: 0
+    }
+
+    .web_toggle_menu .mobile_toggle_menu ul li li a {
+        width: 100%;
+        font-size: 1.43rem;
+        font-weight: 400;
+        display: flex;
+        align-items: center;
+        padding: .7rem 1.07rem !important
+    }
+
+    .webinar_top_sec_inner .top_section_title {
+        font-size: 3rem
+    }
+
+    .featured_speaker_details {
+        margin-top: -9.5rem;
+        padding: 2rem
+    }
+
+    .featured_speaker_details_inner {
+        margin-top: 9rem;
+        padding: 2rem
+    }
+
+    .webinar_top_sec_inner {
+        flex-direction: column
+    }
+
+    .webinar_top_sec_inner .webinar_top_left {
+        width: 100%;
+        margin-top: -8rem
+    }
+
+    .webinar_top_sec_inner .webinar_top_right {
+        width: 100%;
+        margin-left: 0
+    }
+
+    .webinar_top_sec_inner .bottom_time_block {
+        position: static;
+        justify-content: flex-start;
+        padding: 0rem 0rem
+    }
+
+    .bottom_time_block .time_block {
+        padding-top: 2rem
+    }
+
+    p.open_account_heading.w-75 {
+        width: 100% !important
+    }
+
+    .learn_forex_menu {
+        margin-bottom: 30px
+    }
+
+    .intro_forex_link_list {
+        min-width: 100%;
+        max-width: 100%;
+        height: 0;
+        transition: all .5s ease-in-out;
+        visibility: hidden;
+        opacity: 0;
+        margin-top: 0rem
+    }
+
+    .intro_forex_link_list.show {
+        min-width: 100%;
+        max-width: 100%;
+        height: auto;
+        visibility: visible;
+        opacity: 1;
+        transform: translate(0, -15px)
+    }
+
+    .intro_forex_link_block {
+        display: block
+    }
+
+    .intro_forex_right {
+        min-width: 100%;
+        width: 100%;
+        padding-left: 0;
+        padding-top: 30px
+    }
+
+    .related_articles_list>li {
+        min-width: 50%;
+        max-width: 50%
+    }
+
+    .advance_trading_thumbnails .adv_trading_icon {
+        min-width: 10.5rem;
+        max-width: 10.5rem
+    }
+
+    .contract_specifications_sec.sticky_top .contract_specifications_nav_block {
+        top: 6.5rem !important
+    }
+
+    .has_nav_open .header_menu_burger_line {
+        width: 30px
+    }
+
+    .on_news_block {
+        padding-left: 3rem
+    }
+
+    .trading_daily_vol_text {
+        left: 5rem
+    }
+
+    .currency_check_group_right {
+        padding-left: 1.5rem !important
+    }
+
+    .risk_cal_sec img {
+        max-width: 1.5rem
+    }
+
+    .risk_calculation_sec_bottom .risk_cal_sec img {
+        max-width: 1.5rem
+    }
+
+    .market_analysis_sec .market_participants_subheading {
+        font-size: 2rem;
+        margin-top: 2rem
+    }
+
+    .plan_your_trad_box li {
+        min-width: 47%;
+        max-width: 50%;
+        font-size: 1.78rem
+    }
+
+    .slide_title small,
+    .section_title small,
+    .open_account_heading small {
+        font-size: 50%
+    }
+
+    .article_info_view {
+        display: block
+    }
+
+    .article_info_desc.second {
+        margin: 20px 0
+    }
+
+    .article_info_view .article_info_desc:before {
+        display: none
+    }
+
+    .article_link {
+        margin-left: auto
+    }
+
+    .article_info_full_view {
+        display: flex
+    }
+
+    .contract_specifications_nav li a {
+        padding: 1.07rem 1.14rem
+    }
+
+    .forex_news_maltiple_view li {
+        flex: 0 0 calc(50% - 30px);
+        max-width: calc(50% - 30px)
+    }
+
+    .forex_news_full_view .live_video_slider_thumb {
+        min-width: 35rem;
+        width: 35rem
+    }
+
+    .forex_news_block .webinar_detail_text span {
+        display: initial;
+        padding-left: .5rem !important
+    }
+
+    .bottom_time_block .time_block li {
+        min-width: 65px;
+        flex: initial
+    }
+
+    .article_wrapper_sec {
+        flex-direction: column
+    }
+
+    .article_details_wrapper {
+        max-width: 100%
+    }
+
+    .article_nav_wrapper {
+        width: 100%;
+        min-width: 100%;
+        max-width: 100%;
+        display: none;
+        margin-bottom: 1rem
+    }
+
+    .latest_article_wrapper {
+        flex-wrap: wrap
+    }
+
+    .latest_article_details_block,
+    .latest_recentarticles_block {
+        width: 100%;
+        max-width: 100%;
+        flex: 0 0 100%
+    }
+
+    .recentarticles_wrapper .recentarticles_short_details {
+        max-width: 100%
+    }
+
+    .learn_aboutforex_menu {
+        margin-bottom: 1rem
+    }
+
+    .article_nav_wrapper.show {
+        display: block
+    }
+
+    .article_nav_wrapper .article_nav_list_items a {
+        margin: 0rem 0 0
+    }
+
+    .article_details_tray {
+        width: 50%
+    }
+
+    .global-bg .right-img {
+        max-width: 35%;
+        top: 30%
+    }
+
+    .globle_block .star_sec .border-b {
+        max-width: 63%
+    }
+
+    .globle_block .star_sec .star3 .box-right {
+        margin-left: -8rem
+    }
+
+    .header_menu_burger {
+        display: flex;
+    }
+}
+
+@media(max-width:991.98px) {
+    .column_991_reverse {
+        flex-direction: column-reverse
+    }
+
+    .navigation nav,
+    .slide_caption_block {
+        max-width: 720px
+    }
+
+    .signin_signup_header .language_view .nav_dropdown {
+        display: none;
+        right: 15px;
+        left: auto;
+        transform: translate(0, 0) !important
+    }
+
+    .signin_signup_header .language_view .nav_dropdown:before {
+        left: calc(100% - 2.5rem)
+    }
+
+    .signin_signup_header .language_view li:hover .nav_dropdown {
+        display: block
+    }
+
+    .signin_signup_header .language_view .nav_dropdown ul {
+        min-width: 12.5rem
+    }
+
+    .rev_slider_wrapper .rev_slider {
+        padding-top: 8rem
+    }
+
+    .banner_bottom_tab_sec {
+        transform: translateX(0rem)
+    }
+
+    .banner_bottom_tab_sec li {
+        margin: 0rem 1.5rem
+    }
+
+    .banner_bottom_tab_text,
+    .banner_bottom_tab_arrow {
+        display: none
+    }
+
+    .mobile_home_banner .mobile_banner_img {
+        width: 28rem !important
+    }
+
+    .invest_stock_block {
+        min-height: 7rem;
+        margin-left: 0
+    }
+
+    .invest_stock_list {
+        padding: 1.5rem 1.5rem
+    }
+
+    .invest_stock_btn {
+        min-width: 13rem
+    }
+
+    .why_inveslo_box {
+        max-width: 60%
+    }
+
+    .open_account_step_view li,
+    .account_text_view {
+        opacity: 1;
+        visibility: visible
+    }
+
+    .open_account_step_view li.selected {
+        min-width: inherit
+    }
+
+    .open_account_bottom_bar {
+        width: 100%
+    }
+
+    .live_spreads_left,
+    .live_spreads_right {
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .live_spreads_right {
+        margin-left: 0
+    }
+
+    .live_spreads_tablist {
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 2rem;
+        margin-left: -15px;
+        margin-right: -15px
+    }
+
+    .live_spreads_tablist li {
+        min-width: 33.3333%;
+        max-width: 33.3333%;
+        padding: 8px 15px !important
+    }
+
+    .live_spreads_tablist li .nav-link {
+        border-color: #5459ad
+    }
+
+    .account_type_sec,
+    .why_trade_sec,
+    .choose_inveslo_sec,
+    .finger_tips_sec,
+    .trusted_around_sec,
+    .our_principle_sec,
+    .our_team_sec::after,
+    .deposit_withdrawal_sec,
+    .content_page_sec,
+    .market_history_sec {
+        background-image: none !important
+    }
+
+    .account_type_view_sec {
+        display: block
+    }
+
+    .account_type_view_left {
+        width: 100%
+    }
+
+    .account_type_view_right {
+        padding-left: 0rem;
+        padding-top: .65rem
+    }
+
+    .account_type_list {
+        flex-wrap: wrap
+    }
+
+    .account_type_list li {
+        width: 100%;
+        max-width: 50%;
+        flex: auto;
+        margin-top: 1.75rem;
+        margin-bottom: 1.75rem
+    }
+
+    .account_type_heading {
+        font-size: 2.28rem
+    }
+
+    .account_type_view {
+        font-size: 1.43rem
+    }
+
+    .account_type_heading br {
+        display: none
+    }
+
+    .account_type_price_view {
+        display: flex
+    }
+
+    .account_type_price_view li {
+        font-size: 1.8rem;
+        margin: 0
+    }
+
+    .account_type_list_btn .btn {
+        width: 100%;
+        justify-content: space-between;
+        padding: .65rem 1.5rem !important
+    }
+
+    .account_type_list_btn .btn>span {
+        display: block;
+        visibility: visible;
+        opacity: 1;
+        color: #5522f5;
+        transform: translateX(0)
+    }
+
+    .account_type_list_btn .btn i {
+        margin-left: auto
+    }
+
+    .account_type_list li.selected .account_type_list_btn .btn span,
+    .account_type_list li:hover .account_type_list_btn .btn span {
+        color: #fff
+    }
+
+    .global_leader_sec,
+    .global_leader_block,
+    .advance_trading_sec,
+    .on_news_sec,
+    .top_stocks_sec {
+        background-image: none !important
+    }
+
+    .global_leader_bottom {
+        display: block;
+        margin-top: 2.5rem
+    }
+
+    .global_leader_bottom_list {
+        width: calc(100% + 30px)
+    }
+
+    .top_stocks_sec {
+        padding: 4rem 0rem .5rem
+    }
+
+    .inveslo_trusted_left,
+    .inveslo_trusted_right {
+        min-width: 100%;
+        max-width: 100%
+    }
+
+    .inveslo_trusted_sec {
+        padding: 2.5rem 0rem
+    }
+
+    .inveslo_trusted_icon {
+        min-width: 20rem;
+        width: auto
+    }
+
+    .on_news_block {
+        padding-left: 0rem;
+        padding-top: 2.5rem
+    }
+
+    .withdrawals_type_list {
+        border: 1px solid rgba(0, 0, 0, .03);
+        padding-left: 0rem
+    }
+
+    .logo_menu_sec {
+        display: block
+    }
+
+    .footer_menu {
+        padding: 0rem 0rem;
+        margin-top: 2.5rem
+    }
+
+    .footer_menu li a {
+        margin-left: 0rem;
+        margin-right: 0rem
+    }
+
+    .mobile_footer_logo_social_sec {
+        display: flex
+    }
+
+    .footer_logo {
+        min-width: inherit;
+        width: 10rem
+    }
+
+    #pageTop a {
+        font-size: 3.5rem
+    }
+
+    .why_trade_block,
+    .ready_join_box {
+        display: block
+    }
+
+    .why_trade_list_block {
+        width: calc(100% - 30px)
+    }
+
+    .why_trade_right_block {
+        width: 100%;
+        padding-top: 5rem;
+        padding-left: 0rem
+    }
+
+    .ready_join_box>span {
+        max-width: 100%;
+        font-size: 2.2rem;
+        padding: .8rem 1.5rem !important
+    }
+
+    .ready_join_box>span small {
+        font-size: 50%
+    }
+
+    .ready_join_box .btn {
+        margin-top: 2.5rem
+    }
+
+    .ready_join_block {
+        padding: 3rem 3rem
+    }
+
+    .ready_join_list {
+        flex-wrap: wrap
+    }
+
+    .ready_join_list li {
+        min-width: 50%;
+        max-width: 50%
+    }
+
+    .principle_block {
+        display: block
+    }
+
+    .principle_circle_logo_block {
+        width: 28rem;
+        margin: 0rem auto;
+        margin-bottom: -14rem
+    }
+
+    .principle_block_right {
+        min-height: inherit;
+        padding: 5rem 3.5rem;
+        padding-top: 12.5rem
+    }
+
+    .principle_left_logo {
+        width: 20rem;
+        left: calc(50% + 0.5rem);
+        top: -9rem;
+        transform: translate(-50%, 0)
+    }
+
+    .signin_signup_header .navigation {
+        align-items: center
+    }
+
+    .signin_signup_header .navigation .logo {
+        margin: 0rem 2.5rem 0rem
+    }
+
+    .signin_signup_header,
+    .signin_signup_sec::before,
+    .signup_left_sec,
+    .signup_right_sec,
+    .signup_left_data {
+        width: 100%
+    }
+
+    .signin_signup_sec::after {
+        display: none
+    }
+
+    .signup_left_sec {
+        padding: 2.5rem 0rem;
+        padding-top: 12rem
+    }
+
+    .signin_signup_sec .signin_signup_form_block {
+        width: 100%;
+        max-width: 720px
+    }
+
+    .signup_right_sec {
+        background-color: #f0f2ff;
+        box-shadow: -8px 8px 12px rgba(55, 33, 167, .16);
+        border-top: 3px solid #ff0054;
+        padding: 3.5rem ​5rem;
+        padding-top: 3.5rem
+    }
+
+    .contract_specifications_nav {
+        flex-wrap: wrap;
+        padding: 10px 0
+    }
+
+    .contract_specifications_nav li {
+        min-width: calc(100% / 2);
+        max-width: calc(100% / 2);
+        flex: auto;
+        padding: 10px
+    }
+
+    .contract_specifications_nav li:before {
+        display: none
+    }
+
+    .contract_specifications_nav li a {
+        min-height: 4.5rem;
+        border: 1px solid #5522f5;
+        color: #3721a7;
+        transition: none;
+        box-shadow: 1px 4px 15px rgba(55, 33, 167, .16)
+    }
+
+    .contract_specifications_nav li a.active {
+        border: 0;
+        box-shadow: 0 4px 0 #ff0054
+    }
+
+    .contract_specifications_table thead td,
+    .contract_specifications_table tbody td {
+        white-space: nowrap
+    }
+
+    .leverage_and_margin_sec .contract_specifications_nav li a img {
+        min-width: 2rem;
+        max-width: 2rem
+    }
+
+    .deposit_withdrawal_tab_link li a {
+        font-size: 1.6rem
+    }
+
+    .deposit_withdrawal_tab_link_icon {
+        width: 1.8rem
+    }
+
+    .deposit_withdrawal_info {
+        display: block
+    }
+
+    .deposit_withdrawal_info li {
+        width: 100%
+    }
+
+    .deposit_withdrawal_info_text {
+        min-width: 15rem
+    }
+
+    .deposit_withdrawal_info_text:first-child {
+        border-left: 0rem;
+        padding-left: 0rem
+    }
+
+    .accounts_comparison_right_acd .account_type_list li.selected .account_type_list_btn .btn span {
+        color: #4f37cd
+    }
+
+    .accounts_comparison_right_acd .account_type_list li.selected .account_type_list_btn .btn2 span {
+        color: #fff
+    }
+
+    .accounts_comparison_right_acd .account_type_list_btn .btn:hover>span {
+        color: #fff
+    }
+
+    .accounts_comparison_right_acd .account_type_list_btn {
+        min-width: 13.5rem;
+        justify-content: flex-start
+    }
+
+    .accounts_comparison_right_acd .account_type_list_btn .btn {
+        padding: .7rem 1.01rem !important
+    }
+
+    .theme_bg {
+        margin-top: 6%
+    }
+
+    .partner_sec2_inner {
+        flex-direction: column
+    }
+
+    .pws_partners_program_block_inner {
+        flex-direction: column
+    }
+
+    .pws_partners_program_block_inner_left,
+    .pws_partners_program_block_inner_mid,
+    .pws_partners_program_block_inner_right {
+        width: 100%;
+        margin-bottom: 2rem
+    }
+
+    .py-8 {
+        padding-top: 5rem;
+        padding-bottom: 5rem
+    }
+
+    .partner_sec2 {
+        padding-left: 0
+    }
+
+    .partner_sec2_inner_right {
+        width: 100%;
+        margin-right: 2rem
+    }
+
+    .partner_sec2_inner_left {
+        width: 100%;
+        margin-bottom: 2rem
+    }
+
+    .bg_test {
+        background: 0
+    }
+
+    .partner_sec2_inner_right h2.open_account_heading {
+        font-size: 2.8rem
+    }
+
+    .earn_partner_block h3 {
+        font-size: 2.5rem
+    }
+
+    .featured_speaker_sec_inner {
+        flex-direction: column
+    }
+
+    .featured_speaker_sec_inner_left {
+        width: 100%
+    }
+
+    .featured_speaker_sec_inner_right {
+        width: 100%;
+        margin-top: 4rem;
+        margin-left: 0
+    }
+
+    .featured_speaker_sec {
+        padding: 3rem 3rem
+    }
+
+    .copy_someone_list li {
+        min-width: calc(50% - 26px);
+        max-width: calc(50% - 26px)
+    }
+
+    .market_history_block {
+        display: block
+    }
+
+    .market_history_left,
+    .market_history_right {
+        min-width: 100%;
+        width: 100%
+    }
+
+    .market_history_right {
+        margin-top: 30px
+    }
+
+    .market_participants_working_hours_list li {
+        min-height: initial;
+        font-size: 1.5rem;
+        padding: 20px
+    }
+
+    .utc_time_block {
+        padding: 15px
+    }
+
+    .market_history_popup_play {
+        width: 6.5rem;
+        height: 6.5rem;
+        border: 2px solid #fff
+    }
+
+    .market_history_popup_play img {
+        width: 2.5rem
+    }
+
+    .market_history_thumbnail_title {
+        min-height: inherit;
+        font-size: 1.65rem;
+        padding: 20px 20px
+    }
+
+    .on_news_slides_box {
+        margin-bottom: 6.3rem
+    }
+
+    .global_leader_sec,
+    .advance_trading_sec,
+    .on_news_sec,
+    .withdrawals_sec,
+    .live_spreads_sec {
+        padding: 5rem 0rem
+    }
+
+    .live_spreads_sec {
+        background-size: 100%;
+        padding-top: 8rem
+    }
+
+    .why_inveslo_block {
+        margin: 5rem 0rem
+    }
+
+    .account_step_number {
+        font-size: 1.14rem;
+        margin-bottom: 1rem
+    }
+
+    .theme_bg .table tr td,
+    .theme_bg .table tr th {
+        font-size: 1.28rem;
+        padding-left: .75rem
+    }
+
+    .webinar_top_sec_inner .webinar_top_right .carousel-item>div {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column-reverse
+    }
+
+    .webinar_top_right .webinar_top_right_left,
+    .webinar_top_right .webinar_top_right_right {
+        width: 100%
+    }
+
+    .live_spreads_icon {
+        text-align: left
+    }
+
+    .on_news_design_sec .on_news_tabs_sec {
+        min-width: 100%;
+        max-width: 100%
+    }
+
+    .mobile_tab_link a {
+        width: 100%;
+        min-height: 4.5rem;
+        position: relative;
+        border: 1px solid #5522f5;
+        background-color: #fff;
+        box-shadow: 1px 4px 15px rgb(55 33 167 / 16%);
+        font-size: 1.28rem;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 500;
+        padding: 1.07rem 2.5rem;
+        margin-top: 10px
+    }
+
+    .mobile_tab_link.selected a {
+        background: linear-gradient(355.6deg, #501ff3 .65%, #803eff 95.67%);
+        color: #fff;
+        font-size: 1.43rem;
+        border-bottom: 4px solid #ff0054
+    }
+
+    .mobile_tab_link a:after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        border-top: 8px solid #ff0054;
+        position: absolute;
+        bottom: -10px;
+        left: 50%;
+        opacity: 0;
+        visibility: hidden;
+        content: ''
+    }
+
+    .mobile_tab_link.selected a:after {
+        opacity: 1;
+        visibility: visible
+    }
+
+    .forex_tab_show.active,
+    .spot_metals_tab_show.active,
+    .cfd_stocks_tab_show.active,
+    .cfd_commodities_tab_show.active,
+    .spot_indices_tab_show.active,
+    .cfd_eu_stocks_tab_show.active,
+    .Cryptos_tab_show.active,
+    .storage_charges_tab_show,
+    .mobile_tab_link+.fade {
+        opacity: 1 !important
+    }
+
+    .educationals_definition_list li {
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .educationals_definition_list li p {
+        max-width: 100%
+    }
+
+    .trading_daily_vol_sec {
+        flex-direction: column
+    }
+
+    .trading_daily_vol_text {
+        position: relative;
+        left: 0rem
+    }
+
+    .utc_time_standard {
+        width: 100%
+    }
+
+    .what_is_cfd_sec .market_history_thumbnail_img {
+        max-width: 36rem;
+        margin-top: 3rem
+    }
+
+    .optimal_position_size {
+        display: flex !important;
+        flex-direction: column-reverse
+    }
+
+    .mrg_mob_t_5 {
+        margin-top: 3rem
+    }
+
+    .market_psychology_sec .educationals_definition_list li {
+        flex: 0 0 50%;
+        max-width: 50%
+    }
+
+    .paragraph_width_65 {
+        width: 100%
+    }
+
+    .div_with_80 {
+        width: 100%
+    }
+
+    .market_psychology_sec .educationals_definition_title {
+        font-size: 1.78rem
+    }
+
+    .article_info_full_view,
+    .article_desc_view {
+        padding: 20px 30px
+    }
+
+    .article_info_full_view .article_info_desc {
+        padding: 0 15px
+    }
+
+    .article_desc_heading {
+        font-size: 2.5rem
+    }
+
+    .article_detail_block {
+        padding-bottom: 5rem
+    }
+
+    .latest_updates_article_block .title_subheading {
+        max-width: 100%
+    }
+
+    .invest_stock_list_full_block {
+        width: 58rem
+    }
+
+    .invest_stock_list_full_block .invest_stock_list {
+        padding: 3rem 1.36rem
+    }
+
+    .forex_news_full_view .live_video_slider_thumb {
+        width: 100%;
+        min-width: 100%;
+        height: 20rem
+    }
+
+    .forex_news_full_view .live_video_slider_thumb+.p-4 {
+        padding: 1.5rem !important
+    }
+
+    .technical_analysis_block .article_detail_view,
+    .analysis_top_block {
+        padding: 20px
+    }
+
+    .analysis_top_block {
+        display: block
+    }
+
+    .analysis_icon_desc_block {
+        align-items: flex-start
+    }
+
+    .analysis_icon {
+        width: 6rem;
+        min-width: 6rem
+    }
+
+    .analysis_desc {
+        max-width: 100%
+    }
+
+    .analysis_top_btn {
+        min-width: initial;
+        min-height: inherit;
+        font-size: 1.28rem;
+        border-radius: 6px;
+        margin-left: calc(6rem + 20px);
+        margin-top: 20px
+    }
+
+    .analysis_top_btn>span {
+        max-width: initial;
+        margin-right: 10px
+    }
+
+    .analysis_video_article_slider_image {
+        height: 22.5rem
+    }
+
+    .analysis_video_article_btn {
+        font-size: 1.43rem
+    }
+
+    .analysis_video_article_slider_block {
+        margin-bottom: 3.5rem
+    }
+
+    .analysis_article_block .analysis_video_article_slider_list {
+        max-width: calc(100% - 30px)
+    }
+
+    .analysis_article_detail_block h2 {
+        font-size: 1.8rem
+    }
+
+    .analysis_article_detail_block p {
+        margin-bottom: 15px
+    }
+
+    .analysis_modal_view .modal-content {
+        overflow: visible
+    }
+
+    .analysis_video_close {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        background-color: #f00000;
+        color: #fff;
+        top: -10px;
+        right: -10px
+    }
+
+    .analysis_modal_view .modal-content {
+        padding: 20px
+    }
+
+    .article_details_sec .article_details_tray {
+        width: 100%
+    }
+
+    .membership_certificate_second_sec {
+        padding-top: 0
+    }
+
+    .regulatorybox_wrapp_left {
+        margin-bottom: 3rem
+    }
+
+    .analysis_block_partner .posted-text,
+    .analysis_block_partner .partner-box {
+        width: 100%;
+        margin-bottom: 15px
+    }
+
+    .analysis_block_partner {
+        flex-direction: column
+    }
+
+    .analysis_block_partner {
+        padding-bottom: 20px
+    }
+
+    .gold-section {
+        padding: 0
+    }
+
+    .gold-pic_block .footer-date .list-inline-item:last-child {
+        margin-right: 0
+    }
+
+    .technical_analysis_block .article_detail_view {
+        padding: 0
+    }
+
+    .global-bg .right-img {
+        position: relative;
+        z-index: 997;
+        max-width: 55% !important;
+        text-align: center
+    }
+
+    .globle_block .star_sec .border-b {
+        max-width: 100%
+    }
+
+    .globle_block .star_sec .star3 .box-right {
+        margin-left: -8rem
+    }
+
+    .globle_block .title_subheading {
+        max-width: 100%;
+    }
+
+    .account_type_sec .account_type_view_sec {
+        padding-top: 2rem;
+    }
+
+    .trustpilot-logo a>img {
+        width: 75% !important;
+    }
+
+    .footer_top_left {
+        flex: 0 0 65%;
+        max-width: 65%;
+    }
+
+    .footer_top_right {
+        padding-top: 0rem;
+        flex: 0 0 35%;
+        max-width: 35%;
+    }
+
+    .footer_logo.newftr-logo {
+        margin-left: 2rem;
+    }
+
+    .footer_topsec_newblock .footer_top_left {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .footer_topsec_newblock .footer_top_right {
+        max-width: 100%;
+        flex: 0 0 100%;
+        padding-top: 2.5rem;
+        padding-left: 2.5rem;
+    }
+}
+
+@media(max-width:767.98px) {
+
+    .btn:hover .left_right_anim,
+    .btn:focus .left_right_anim,
+    .banner_bottom_tab_sec li:hover .banner_bottom_tab_arrow,
+    .banner_bottom_tab_sec li:focus .banner_bottom_tab_arrow {
+        animation: inherit
+    }
+
+    .btn:hover::before {
+        transform: translateY(-110%)
+    }
+
+    .header_logo_view {
+        min-width: initial
+    }
+
+    .navigation nav,
+    .slide_caption_block {
+        max-width: 540px
+    }
+
+    .btn {
+        padding: 1.2rem 2rem !important
+    }
+
+    .slide_caption_block,
+    .slide_caption_block.without_banner_bottom_tab {
+        padding-top: 8rem;
+        padding-bottom: 5rem
+    }
+
+    .mobile_home_banner .mobile_banner_img {
+        width: 100% !important
+    }
+
+    .home_banner_sec .rev_slider_wrapper,
+    .home_banner_sec .rev_slider {
+        height: 75rem !important
+    }
+
+    .banner_bottom_mobiletab_sec .banner_bottom_tab_sec {
+        display: block;
+        background-color: rgba(0, 0, 0, 1);
+        position: static;
+        border: 0;
+        padding: 0rem 0rem;
+        margin-top: -1px
+    }
+
+    .banner_bottom_mobiletab_sec .banner_bottom_tab_sec li {
+        padding: .35rem 0rem;
+        margin: 0rem 0rem
+    }
+
+    .banner_bottom_mobiletab_sec .banner_bottom_tab_sec li::before {
+        display: none
+    }
+
+    .banner_bottom_tab_heading_view {
+        background: linear-gradient(90deg, #1e1f2d 1.15%, rgba(30, 31, 45, 0) 102.98%);
+        padding: 1.5rem 2.5rem
+    }
+
+    .slide_title,
+    .section_title,
+    .open_account_heading {
+        font-size: 2.4rem
+    }
+
+    .slide_title br,
+    .section_title br,
+    .open_account_heading br,
+    .product_faq_img {
+        display: none
+    }
+
+    .invest_stock_list {
+        flex-wrap: wrap
+    }
+
+    .invest_stock_list li {
+        width: calc(50% - 1rem);
+        margin: .5rem
+    }
+
+    .invest_stock_list li:first-child {
+        margin: .5rem
+    }
+
+    .invest_stock_list li a {
+        display: block;
+        text-align: center
+    }
+
+    .invest_stock_list li img {
+        width: 100%
+    }
+
+    .invest_stock_btn {
+        min-width: 6rem;
+        font-size: 3rem
+    }
+
+    .why_inveslo_box {
+        max-width: 100%
+    }
+
+    .open_account_sec {
+        background: linear-gradient(85.93deg, #080344 1.49%, #2b137d 100%) !important
+    }
+
+    .open_account_step_view li {
+        margin-top: 5rem
+    }
+
+    .open_account_step_view li:first-child {
+        margin-top: 0rem
+    }
+
+    .account_step_number {
+        font-size: 1.28rem;
+        line-height: normal;
+        margin-bottom: .5rem
+    }
+
+    .account_heading_icon,
+    .open_account_step_view li.selected .account_heading_icon {
+        min-width: 5rem;
+        min-height: 5rem;
+        margin-right: 0rem
+    }
+
+    .account_heading_view,
+    .open_account_step_view li.selected .account_heading_view {
+        font-size: 1.8rem;
+        align-items: flex-start
+    }
+
+    .account_type_list li.selected .account_type_list_btn .btn,
+    .account_type_list li:hover .account_type_list_btn .btn,
+    .account_type_list_btn .btn {
+        width: 18rem
+    }
+
+    .live_spreads_tablist li {
+        min-width: 50%;
+        max-width: 50%
+    }
+
+    .live_spreads_tablist li .nav-link {
+        font-size: 1.14rem
+    }
+
+    .view_all_spreads_sec {
+        display: block
+    }
+
+    .account_type_list li {
+        max-width: 100%
+    }
+
+    .global_social_trading {
+        display: block
+    }
+
+    .global_social_trading li {
+        padding-top: 3.5rem
+    }
+
+    .global_social_trading li:first-child {
+        padding-top: 0rem
+    }
+
+    .global_leader_bottom_list {
+        flex-wrap: wrap
+    }
+
+    .global_leader_bottom_list li {
+        min-width: 50%;
+        max-width: 50%;
+        flex: auto;
+        font-size: 3rem;
+        padding-top: 15px;
+        padding-bottom: 15px
+    }
+
+    .inveslo_trusted_icon {
+        margin: 0rem auto 3.5rem
+    }
+
+    .live_video_slider_thumb {
+        width: 10rem;
+        min-width: 10rem;
+        height: auto
+    }
+
+    .live_video_slider_thumb .video_play_btn {
+        width: 3.2rem;
+        height: 3.2rem
+    }
+
+    .footer_logo {
+        min-width: 100%;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 2.5rem
+    }
+
+    .footer_logo img {
+        max-width: 14rem
+    }
+
+    .mobile_footer_logo_social_sec {
+        display: block
+    }
+
+    .footer_menu {
+        flex-wrap: wrap
+    }
+
+    .footer_menu li {
+        flex: auto;
+        min-width: 50%;
+        padding-left: 0rem;
+        padding-right: 0rem
+    }
+
+    .footer_social_list li a {
+        height: 4rem;
+        width: 4.5rem
+    }
+
+    .down_sec_arrow {
+        bottom: 1.5rem
+    }
+
+    #product_faq .card .collapse_icon {
+        top: 2.3rem
+    }
+
+    .why_trade_list_view li {
+        max-width: 20rem;
+        flex: 1
+    }
+
+    .ready_join_block {
+        padding: 1.07rem 1.07rem
+    }
+
+    .ready_join_list li {
+        min-width: 100%;
+        max-width: 100%;
+        display: block
+    }
+
+    .ready_join_list li .choose_inveslo_icon {
+        margin-bottom: 1rem
+    }
+
+    .trusted_around_list_view li {
+        flex: auto
+    }
+
+    .signup_left_sec,
+    .signup_right_sec,
+    .signup_left_data_list {
+        width: calc(100% - 40px);
+        margin-left: 20px;
+        margin-right: 20px
+    }
+
+    .signin_signup_header .language_view {
+        width: 10.5rem;
+        min-width: 10.5rem
+    }
+
+    .signin_signup_header .navigation .logo {
+        margin: 0rem 1.5rem 0rem
+    }
+
+    .signup_left_sec {
+        padding-top: 10rem
+    }
+
+    .deposit_withdrawal_tab_link li a {
+        font-size: 1.4rem;
+        padding: 1.8rem 1.65rem
+    }
+
+    .accounts_comparison_right .account_type_list>li {
+        display: block
+    }
+
+    .accounts_comparison_right .account_type_price_view li {
+        padding: 2rem 2rem .5rem
+    }
+
+    .accounts_comparison_right .account_type_list_btn {
+        justify-content: flex-start
+    }
+
+    .theme_bg {
+        margin-top: 7%
+    }
+
+    .partner_sec2_inner {
+        flex-direction: column
+    }
+
+    .py-8 {
+        padding-top: 3rem;
+        padding-bottom: 3rem
+    }
+
+    .partner_sec2_inner_right h2.open_account_heading {
+        font-size: 2.4rem;
+        white-space: normal
+    }
+
+    .webinar_top_sec_inner .webinar_top_right {
+        flex-direction: column
+    }
+
+    .webinar_top_right .webinar_top_right_left,
+    .webinar_top_right .webinar_top_right_right {
+        width: 100%;
+        padding: 15px
+    }
+
+    .webinar_top_right .webinar_top_right_right {
+        box-shadow: none
+    }
+
+    .featured_speaker_img img {
+        max-width: 100%
+    }
+
+    .webinar_detail_sec {
+        padding: 15px;
+        padding-bottom: .1rem
+    }
+
+    .webinar_top_right_left .on_news_slides {
+        padding-left: 0;
+        padding-right: 0
+    }
+
+    .webinar_top_sec_inner .webinar_top_left {
+        width: 100%;
+        margin-top: -7rem
+    }
+
+    .webinar_top_sec_inner .top_section_title {
+        font-size: 2.5rem
+    }
+
+    .section_title_webinar {
+        font-size: 2rem
+    }
+
+    .webinar_bottom .choose_inveslo_list_3block li {
+        width: 100%
+    }
+
+    .webinar_learn_forex_sec .choose_inveslo_list_3block li {
+        max-width: 100%
+    }
+
+    .webinar_learn_forex_sec {
+        padding-left: 2rem
+    }
+
+    .webinar_bottom {
+        padding-left: 1rem
+    }
+
+    .copytrading_inveslo_sec,
+    .copy_someone_sec {
+        padding: 4.5rem 0rem
+    }
+
+    .copy_someone_list li {
+        min-width: calc(100% - 26px);
+        max-width: calc(100% - 26px);
+        min-height: initial
+    }
+
+    .intro_forex_right {
+        flex-direction: column-reverse
+    }
+
+    .intro_forex_right_image_view {
+        text-align: left !important;
+        padding-left: 0rem;
+        margin-bottom: 30px
+    }
+
+    .intro_forex_right_image_view img {
+        min-width: inherit;
+        max-width: 22rem
+    }
+
+    .market_history_sec,
+    .market_value_sec,
+    .market_participants_sec,
+    .related_articles_sec {
+        padding: 50px 0rem
+    }
+
+    .market_participants_working_hours_list li {
+        min-width: calc(100% - 30px);
+        max-width: calc(100% - 30px)
+    }
+
+    .related_articles_list>li {
+        min-width: 100%;
+        max-width: 100%
+    }
+
+    .account_step_title {
+        margin: 0rem 0rem
+    }
+
+    .accounts_comparison_right_acd .account_type_list li.selected .account_type_heading_view {
+        min-height: initial
+    }
+
+    .accounts_comparison_right.accounts_comparison_right_acd .account_type_price_view li {
+        padding-left: 15px
+    }
+
+    .web_toggle_menu .mobile_toggle_menu ul li .footer_social_list li {
+        width: 75%;
+        margin-left: -3rem
+    }
+
+    .web_toggle_menu .mobile_toggle_menu ul li.mobile_toggle_btn {
+        display: block !important;
+        background: linear-gradient(255.3deg, #2d2e43 1.2%, #000 95.31%), #2d2e43
+    }
+
+    .web_toggle_menu .mobile_toggle_menu ul li.mobile_toggle_btn a.transparent_btn {
+        margin-left: 0rem;
+        margin-top: 1rem
+    }
+
+    .web_toggle_menu .mobile_toggle_menu ul li.mobile_toggle_btn .btn {
+        min-width: 100%;
+        width: 100%;
+        float: left
+    }
+
+    .web_toggle_menu .mobile_toggle_menu ul li.mobile_toggle_btn .btn::before {
+        display: none
+    }
+
+    .live_spreads_block>li {
+        min-width: calc(100% - 10px);
+        max-width: calc(100% - 10px);
+        margin: 8px 5px
+    }
+
+    .live_spreads_title_view {
+        padding: 10px
+    }
+
+    .live_spreads_graph_view li {
+        padding: 8px 10px
+    }
+
+    .bid_ask_view_list {
+        padding: 2px
+    }
+
+    .bid_ask_btnview {
+        padding: 0 2px 10px
+    }
+
+    .on_news_list_sec li {
+        min-width: 100%;
+        width: 100%;
+        border-bottom: 1px solid #f1f2ff
+    }
+
+    .on_news_list_sec li.second,
+    .on_news_list_sec li.four {
+        border-left: 0
+    }
+
+    .on_news_list_sec li:last-child {
+        border-bottom: 0
+    }
+
+    .on_news_list_data_block {
+        padding: 1.28rem
+    }
+
+    .on_news_list_data_icon {
+        min-width: 4.8rem;
+        width: 4.8rem;
+        margin-right: 15px
+    }
+
+    .signup_left_data_list li {
+        align-items: flex-start
+    }
+
+    .global_leader_block {
+        padding: 30px 30px
+    }
+
+    .risk_cal_sec {
+        min-height: inherit;
+        font-size: 14px;
+        padding: 15px 10px
+    }
+
+    .risk_cal_sec1 span,
+    span.small_risk_cal_text {
+        position: static
+    }
+
+    .trading_daily_vol_text .copy_trading_text {
+        width: 100%
+    }
+
+    .trading_daily_vol_img {
+        padding-left: 0;
+        padding-right: 0;
+        margin-top: 1rem
+    }
+
+    .forex_market_participants .market_history_thumbnail_img {
+        width: 100%
+    }
+
+    .forex_market_participants_heading {
+        font-size: 2rem
+    }
+
+    .utc_time_standard {
+        width: 65%
+    }
+
+    .table_fx thead th {
+        white-space: nowrap;
+        padding: 0 1rem
+    }
+
+    .table_fx tr td {
+        padding: 0 1rem
+    }
+
+    .table_fx thead th:last-child {
+        padding-left: 0
+    }
+
+    .table_fx thead th:first-child {
+        padding-left: 3rem
+    }
+
+    .crosses_sec .table_fx thead th:last-child {
+        padding-left: 0
+    }
+
+    .crosses_sec .table_fx tr td {
+        padding: 0 3rem
+    }
+
+    .table_heading_th {
+        width: 5.25% !important
+    }
+
+    .image_fx_basics {
+        margin-top: 3rem
+    }
+
+    .table_heading {
+        font-size: 1.85rem
+    }
+
+    .direction-rev {
+        flex-direction: column-reverse !important
+    }
+
+    .optimal_position_size {
+        display: flex !important
+    }
+
+    .market_psychology_sec .educationals_definition_list li {
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .plan_your_trad_box li {
+        min-width: 100%;
+        max-width: 100%;
+        font-size: 1.43rem;
+        margin: 0rem 0rem 1rem 0rem
+    }
+
+    .paln_trade_table thead th {
+        white-space: normal
+    }
+
+    .paln_trade_table {
+        overflow-x: hidden
+    }
+
+    .paln_trade_table tr td {
+        padding: 1.5rem 1rem
+    }
+
+    .paragraph_width_75 {
+        width: 95%
+    }
+
+    .plan_your_trad_list .educationals_definition_title {
+        font-size: 1.43rem
+    }
+
+    .table_lot_size_trading_concept th,
+    .table_lot_size_trading_concept tr td,
+    .table_lot_size_trading_concept thead th {
+        padding: 0
+    }
+
+    .table_lot_size_trading_concept thead th:first-child {
+        padding: 2rem
+    }
+
+    .article_detail_view {
+        margin-top: 10rem
+    }
+
+    .article_info_full_view,
+    .article_desc_view {
+        padding: 15px 15px;
+        display: block
+    }
+
+    .latest_updates_article_slider {
+        padding-bottom: 5.42rem
+    }
+
+    .latest_updates_article_slider .slick-arrow {
+        width: 5.57rem;
+        height: 5.42rem
+    }
+
+    .latest_updates_article_slider .slick-arrow.next {
+        left: calc(5.57rem + 1px)
+    }
+
+    .article_desc_heading {
+        font-size: 2.14rem;
+        font-weight: 500
+    }
+
+    .invest_stock_list_block {
+        padding-right: 6rem
+    }
+
+    .invest_stock_list_full_block {
+        width: 100%
+    }
+
+    .invest_stock_list_full_block .invest_stock_list {
+        padding: 3rem 1.36rem 3rem 3.36rem
+    }
+
+    .top_stocks_heading {
+        font-size: 2.2rem
+    }
+
+    .on_news_list_arrow_link i {
+        opacity: 1;
+        visibility: visible;
+        font-size: 18px
+    }
+
+    .deposit_withdrawal_tab_link li a:hover,
+    .deposit_withdrawal_tab_link li a.active {
+        background: 0
+    }
+
+    .banner_bottom_tab_heading_view img {
+        transition: none
+    }
+
+    .product_register_view {
+        padding: 15px
+    }
+
+    .forex_news_full_view .forex_news_title {
+        font-size: 1.85rem
+    }
+
+    .forex_news_full_view .live_video_slider_text {
+        font-size: 1.35rem
+    }
+
+    .forex_news_full_view .webinar_detail_text {
+        font-size: 1.28rem
+    }
+
+    .article_detail_view .article_first_banner {
+        height: 250px
+    }
+
+    .article_info_full_view .article_info_desc:first-child {
+        padding-left: 15px;
+        margin-bottom: -15px
+    }
+
+    .technical_analysis_block .breadcrumb_sec .breadcrumb li,
+    .technical_analysis_block .breadcrumb_sec .breadcrumb li a {
+        font-size: 1.28rem
+    }
+
+    .analysis_top_block {
+        padding: 15px
+    }
+
+    .analysis_top_block {
+        margin-bottom: 15px
+    }
+
+    .analysis_top_block:before {
+        border-width: 18px;
+        left: 15px;
+        bottom: -18px
+    }
+
+    .analysis_video_article_slider_block {
+        margin-left: 35px;
+        margin-right: 35px
+    }
+
+    .analysis_video_article_slider .slick-arrow {
+        width: 25px;
+        left: -17px
+    }
+
+    .analysis_video_article_slider .slick-arrow.next {
+        left: auto;
+        right: -17px
+    }
+
+    .analysis_icon {
+        width: 4rem;
+        min-width: 4rem
+    }
+
+    .analysis_desc_view {
+        padding-left: 15px
+    }
+
+    .analysis_desc_title {
+        font-size: 22px
+    }
+
+    .analysis_top_btn {
+        margin-left: calc(4rem + 5px)
+    }
+
+    .analysis_video_article_slider_image {
+        height: 15rem
+    }
+
+    .fx_street_icon {
+        width: 4.3rem
+    }
+
+    .investingcom_icon {
+        width: 10.3rem
+    }
+
+    .analysis_article_sec {
+        margin-left: 0rem;
+        margin-right: 0rem
+    }
+
+    .analysis_modal_view .modal-content {
+        padding: 1px
+    }
+
+    .analysis_video_frame {
+        height: 28rem
+    }
+
+    .analysis_modal_view .analysis_video_article_desc {
+        margin: 20px
+    }
+
+    .article_details_tray {
+        width: 100%
+    }
+
+    .membership_certificate_second_sec .educationals_list {
+        margin-left: 0rem
+    }
+
+    .analysis_block_partner .partner-box .partner-img {
+        width: calc(50% - 25px);
+        flex-wrap: wrap;
+        height: auto;
+        margin-bottom: 15px
+    }
+
+    .analysis_block_partner .partner-box .partner-img img {
+        width: 100%;
+        height: auto
+    }
+
+    .analysis_block_paetner .partner-box {
+        flex-wrap: wrap
+    }
+
+    .analysis_block_paetner .partner-box {
+        width: 100%
+    }
+
+    .analysis_block_paetner .partner-box .partner-img:last-child {
+        margin-right: 12.5px
+    }
+
+    .analysis_block_paetner .partner-box .partner-img:first-child {
+        margin-left: 12.5px
+    }
+
+    .analysis_block_partner {
+        padding-bottom: 20px;
+        margin-bottom: 3.28rem
+    }
+
+    .technical_analysis_block .breadcrumb_sec .breadcrumb li:last-child {
+        display: none
+    }
+
+    .article_details_wrapper .analysis_article_detail_block h1 {
+        font-size: 2rem
+    }
+
+    .article_details_wrapper .analysis_article_detail_block p img {
+        width: 100%
+    }
+
+    .footer_social_list li a {
+        width: 4rem;
+        height: 4rem
+    }
+
+    .article_details_wrapper .analysis_article_block ul,
+    .article_details_wrapper .analysis_article_block ol {
+        margin: 0rem 0rem 0rem 0rem
+    }
+
+    .globle_block .star_sec .star3 h3 {
+        font-size: 1.5rem
+    }
+
+    .globle_block .star_sec .star3 .star-box {
+        padding: 1.25rem;
+        width: 120px;
+        min-width: 120px;
+        margin-right: 1rem;
+    }
+
+    .globle_block .star_sec .star3 .box-right {
+        margin-left: -4rem
+    }
+
+    .achievements .left-arrow::before,
+    .achievements .right-arrow::after {
+        top: 12px
+    }
+
+    .asia_2022 {
+        max-width: 90%;
+        margin-bottom: 2rem
+    }
+
+    .achievements .left-arrow::before,
+    .achievements .right-arrow::after {
+        top: 12px
+    }
+
+    .global-bg .right-img {
+        max-width: 50% !important;
+        margin-left: auto;
+        margin-right: auto
+    }
+
+    .asia_2022 {
+        max-width: 90%;
+        margin-bottom: 2rem
+    }
+
+    .footer_top_left {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .logo_menu_sec {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .footer_logo {
+        min-width: auto;
+        width: auto;
+    }
+
+    .footer_top_right {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .footer_logo.newftr-logo {
+        min-width: 14rem;
+    }
+}
+
+@media(max-width:575.98px) {
+    .navigation {
+        min-height: 5.5rem
+    }
+
+    .web_toggle_menu .mobile_toggle_menu ul li a.mobile_menu_head {
+        font-size: 1.5rem
+    }
+
+    .logo img {
+        width: 13.5rem
+    }
+
+    .header_menu_burger {
+        width: 60px
+    }
+
+    .side_menu_bar {
+        width: 4.5rem
+    }
+
+    .header_menu_burger_line,
+    .header_menu_burger:after,
+    .header_menu_burger:before {
+        width: 40px;
+        left: 5px
+    }
+
+    .home_banner_sec .rev_slider_wrapper,
+    .home_banner_sec .rev_slider {
+        height: 70rem !important
+    }
+
+    .slide_subtitle {
+        font-size: 1.14rem;
+        line-height: 1.5
+    }
+
+    .web_toggle_menu .mobile_toggle_menu ul li .footer_social_list li {
+        width: 100%
+    }
+
+    .slide_caption_block,
+    .slide_caption_block.without_banner_bottom_tab {
+        padding-top: 7rem;
+        padding-bottom: 3rem
+    }
+
+    .banner_btn_view a {
+        width: 22rem;
+        display: block;
+        margin-top: 1.5rem;
+        margin-left: auto !important;
+        margin-right: auto !important
+    }
+
+    .product_mobile_btn .btn {
+        min-width: 22rem;
+        min-height: 4.75rem
+    }
+
+    .banner_btn_view a:first-child {
+        margin-top: 0rem
+    }
+
+    .open_account_bottom_bar {
+        text-align: center;
+        padding: 0 15px
+    }
+
+    .open_account_bottom_bar a {
+        width: 100%;
+        display: flex
+    }
+
+    .view_all_spreads_sec .btn {
+        width: 100%;
+        display: flex;
+        margin-top: 1.5rem !important;
+        margin-left: 0rem !important
+    }
+
+    .open_account_bottom_bar img,
+    .adv_trading_data_text,
+    .down_sec_arrow {
+        display: none
+    }
+
+    .advance_trading_thumbnails li {
+        width: 100% !important
+    }
+
+    .advance_trading_thumbnails .adv_trading_icon {
+        min-width: 10.5rem;
+        max-width: 10.5rem
+    }
+
+    .advance_trading_thumbnails .adv_trading_data {
+        min-height: 7.5rem !important
+    }
+
+    .advance_trading_thumbnails .adv_trading_icon img {
+        width: 4rem !important
+    }
+
+    .adv_trading_data_heading {
+        transform: translate3d(0, 0, 0) !important
+    }
+
+    .footer_menu {
+        display: block
+    }
+
+    .footer_menu li {
+        border-top: none;
+    }
+
+    .footer_menu_mview_heading {
+        display: flex
+    }
+
+    .footer_menu_mview_heading i {
+        transition: all .5s ease-out
+    }
+
+    .footer_menu_mview_heading.arrow_rotate i {
+        transform: rotate(90deg)
+    }
+
+    .footer_menu_links {
+        display: none
+    }
+
+    .footer_menu_links.show {
+        display: block
+    }
+
+    #second_sec {
+        padding-top: 1.5rem !important
+    }
+
+    .why_trade_list_view,
+    .choose_inveslo_list {
+        display: block
+    }
+
+    .why_trade_list_block {
+        display: flex;
+        margin-left: 0;
+        margin-right: 0
+    }
+
+    .why_trade_list_view {
+        width: calc(100% + 30px)
+    }
+
+    .why_trade_list_view li,
+    .choose_inveslo_list li {
+        width: 100%;
+        max-width: 100%
+    }
+
+    .why_trade_block {
+        display: flex;
+        flex-direction: column-reverse
+    }
+
+    .why_trade_right_block {
+        float: left;
+        padding-top: 0rem;
+        padding-bottom: 2.5rem
+    }
+
+    .trusted_around_list_view {
+        width: 100%;
+        display: flex
+    }
+
+    .trusted_around_list_view li {
+        width: 50%
+    }
+
+    .trusted_around_list_view .why_trade_list_block {
+        width: 100%
+    }
+
+    .our_team_sliders .slick-arrow {
+        top: -4rem
+    }
+
+    .signup_left_sec,
+    .signup_right_sec {
+        padding: 2.5rem 1.5rem;
+        padding-top: 8rem
+    }
+
+    .signup_left_sec {
+        padding-left: 0rem;
+        padding-right: 0rem
+    }
+
+    .signup_right_sec {
+        padding-top: 2.5rem
+    }
+
+    .contract_specifications_nav {
+        padding: 10px 10px
+    }
+
+    .contract_specifications_nav li {
+        min-width: calc(100% / 2);
+        max-width: calc(100% / 2)
+    }
+
+    .contract_specifications_table_note {
+        padding: 1.5rem
+    }
+
+    .deposit_withdrawal_tabs_block:before {
+        height: 2.5rem
+    }
+
+    .deposit_withdrawal_tab_link li a {
+        font-size: 1.2rem;
+        padding: 1.4rem 1.07rem
+    }
+
+    .deposit_withdrawal_tab_link_icon {
+        display: none
+    }
+
+    .deposit_withdrawal_info_text {
+        min-width: 50%;
+        padding: 0rem 1.5rem
+    }
+
+    .theme_bg {
+        margin-top: 10%
+    }
+
+    .accounts_comparison_right_acd .account_type_list li.selected .account_type_heading_view {
+        min-height: auto
+    }
+
+    .accounts_comparison_right_acd .account_type_list li.selected .account_type_list_btn .btn {
+        justify-content: center
+    }
+
+    .dark_text {
+        line-height: 1.5
+    }
+
+    .advance_trading_thumbnails li {
+        width: 100% !important
+    }
+
+    .earn_partner_sec {
+        width: 92%;
+        margin-top: 3.2rem;
+        margin-bottom: 3.2rem
+    }
+
+    .webinar_learn_forex_sec .choose_inveslo_list .choose_inveslo_list_block {
+        flex-direction: column;
+        justify-content: center
+    }
+
+    .webinar_learn_forex_sec .open_account_heading {
+        width: 100% !important
+    }
+
+    .webinar_top_sec_inner .webinar_top_left {
+        margin-top: 0rem
+    }
+
+    .intro_forex_right_image_view img {
+        max-width: 100%
+    }
+
+    .market_history_popup_play {
+        width: 5rem;
+        height: 5rem
+    }
+
+    .market_history_popup_play img {
+        width: 2rem
+    }
+
+    .market_history_thumbnail_title {
+        font-size: 1.5rem;
+        padding: 15px 15px
+    }
+
+    .web_toggle_menu {
+        padding-top: 7rem
+    }
+
+    .web_toggle_menu .mobile_toggle_menu ul li .footer_social_list li a {
+        margin: 0 3px
+    }
+
+    .educationals_definition_list li {
+        padding: 0 15px
+    }
+
+    .market_hubs_tray_left {
+        width: 18rem
+    }
+
+    .utc_time_standard {
+        margin-left: 4rem
+    }
+
+    .market_hubs_name,
+    .market_utc_time {
+        font-size: 1.5rem
+    }
+
+    #pointer:after {
+        border-left: 2.465rem solid #fff;
+        border-top: 2.465rem solid transparent;
+        border-bottom: 2.465rem solid transparent
+    }
+
+    .market_hubs_tray {
+        min-height: 4.93rem
+    }
+
+    .market_utc_time {
+        margin-left: -4rem
+    }
+
+    .utc_time_standard {
+        width: 65%
+    }
+
+    .market_hubs_tray_left {
+        min-height: 4.93rem
+    }
+
+    .subtext_fx li {
+        font-size: 1.43rem
+    }
+
+    .copy_trading_text_head {
+        font-size: 1.43rem
+    }
+
+    .table_protect_money thead th {
+        white-space: normal
+    }
+
+    .risk_cal_sec {
+        font-size: .93rem
+    }
+
+    .risk_calculation_sec_bottom {
+        width: 100%
+    }
+
+    .market_analysis_sec .market_participants_subheading {
+        margin-top: 4rem
+    }
+
+    .market_analysis_sec .market_history_thumbnail_img {
+        padding-top: 2.5rem
+    }
+
+    .plan_your_trad_box li {
+        min-height: 5.85rem
+    }
+
+    span.small_risk_cal_text {
+        font-size: .93rem;
+        position: relative
+    }
+
+    .risk_calculation_sec_bottom .risk_cal_sec1.example {
+        font-size: .93rem
+    }
+
+    span.example {
+        font-size: .93rem;
+        position: relative
+    }
+
+    .risk_cal_sec1 span {
+        position: relative;
+        font-size: .93rem
+    }
+
+    .risk_cal_sec i {
+        font-size: 1.43rem
+    }
+
+    .risk_calculation_sec_bottom .risk_cal_sec img {
+        max-width: 1.43rem
+    }
+
+    .article_data_view {
+        align-items: center !important;
+        box-shadow: 0 0 0 transparent;
+        border-bottom: 1px solid rgb(55 33 167 / 16%)
+    }
+
+    .article_data_view .live_video_slider_thumb {
+        width: 10rem;
+        min-width: 10rem;
+        height: 10rem
+    }
+
+    .article_data_view .live_video_slider_thumb img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover
+    }
+
+    .article_data_view .live_video_slider_text {
+        padding: 10px
+    }
+
+    .article_info_view {
+        padding: 10px 0
+    }
+
+    .on_news_list_data_textheading {
+        font-size: 18px
+    }
+
+    .on_news_list_data_text {
+        font-size: 15px
+    }
+
+    .forex_news_full_view .live_video_slider_thumb,
+    .forex_news_maltiple_view .live_video_slider_thumb {
+        width: 100%;
+        min-width: 100%;
+        height: 18rem
+    }
+
+    .forex_news_block .live_video_slider_text {
+        padding: 0
+    }
+
+    .forex_news_title,
+    .forex_news_maltiple_view .forex_news_title {
+        font-size: 1.28rem
+    }
+
+    .forex_news_full_view .live_video_slider_text {
+        -webkit-line-clamp: 5;
+        -webkit-box-orient: vertical;
+        display: -webkit-box;
+        overflow: hidden
+    }
+
+    .forex_news_maltiple_view {
+        margin-left: 0;
+        margin-right: 0
+    }
+
+    .forex_news_maltiple_view li {
+        flex: 0 0 100%;
+        max-width: 100%;
+        border: 1px solid rgba(55, 33, 167, .08) !important;
+        margin-left: 0;
+        margin-right: 0
+    }
+
+    .article_details_wrapper .analysis_video_article_slider_block {
+        margin: 3rem
+    }
+
+    .regulatorybox_wrapper {
+        padding: 3.42rem 1.45rem
+    }
+
+    .regulatorybox_inner_wrapper {
+        flex-wrap: wrap
+    }
+
+    p.slide_subtitle br {
+        display: none
+    }
+
+    .analysis_block_partner {
+        display: block
+    }
+
+    .analysis_block_partner .posted-text {
+        font-size: 1.5rem
+    }
+
+    .analysis_block_partner .partner-box .partner-img {
+        flex-direction: column;
+        width: calc(50% - 12.5px);
+        flex-wrap: wrap;
+        margin: 0 12.5px
+    }
+
+    .analysis_block_partner .partner-box .partner-img:nth-child(2) {
+        margin-right: 0
+    }
+
+    .analysis_block_partner .partner-box .partner-img:nth-child(3) {
+        margin-left: 0
+    }
+
+    .analysis_block_partner .posted-text,
+    .analysis_block_partner .partner-box {
+        width: 100%;
+        margin-bottom: 15px
+    }
+
+    .analysis_block_partner .partner-box {
+        display: unset;
+        width: 100%;
+        margin-bottom: 15px;
+        flex-wrap: wrap
+    }
+
+    .analysis_block_partner {
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 0
+    }
+
+    .gold-pic_block .footer-date .list-inline-item {
+        margin-right: 0;
+        margin-bottom: 1rem
+    }
+
+    .gold-pic_block {
+        padding: 1.42rem 1.42rem
+    }
+
+    .gold-pic_block h3 {
+        font-size: 1.57rem
+    }
+
+    .gold-pic_block p {
+        font-size: 1.07rem
+    }
+
+    .gold-pic_block .footer-date .list-inline-item {
+        margin-right: .9rem;
+        margin-bottom: 1rem;
+        font-size: .93rem
+    }
+
+    .gold-pic_block .footer-date {
+        font-size: 1rem
+    }
+
+    .gold-pic_block a.read-more {
+        font-size: 1.28rem
+    }
+
+    .gold-pic_block .img-banner {
+        min-height: 16.21rem
+    }
+
+    .article_desc_view ul li {
+        margin: 0rem 1.14rem
+    }
+
+    .web_toggle_menu .mobile_toggle_menu ul li .footer_social_list li a {
+        margin-bottom: .5rem
+    }
+
+    .global-bg .right-img {
+        max-width: 100% !important
+    }
+
+    .trustpilot-logo a>img {
+        width: 100% !important;
+    }
+
+    .globle_block .star_sec .star3 .star-box {
+        padding: 1.25rem;
+        width: 100px;
+        min-width: 100px;
+    }
+
+
+    .logo_menu_sec.new_footerlogo {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+@media(max-width:479.98px) {
+    .logo img {
+        width: 10.5rem
+    }
+
+    .side_menu_bar {
+        width: 3.5rem
+    }
+
+    .header_menu_burger_line,
+    .header_menu_burger:after,
+    .header_menu_burger:before {
+        width: 30px;
+        left: 7px
+    }
+
+    .header_menu_burger:before {
+        margin-top: -7px
+    }
+
+    .header_menu_burger:after {
+        margin-top: 7px
+    }
+
+    .home_banner_sec .rev_slider_wrapper,
+    .home_banner_sec .rev_slider {
+        height: 62rem !important
+    }
+
+    .trusted_around_list_view {
+        display: block
+    }
+
+    .trusted_around_list_view li {
+        width: 100%
+    }
+
+    .trusted_around_list_view li {
+        min-height: 15rem
+    }
+
+    .trusted_around_list_view li.dark {
+        background-color: #f9f9ff
+    }
+
+    .trusted_around_list_view li:nth-child(even) {
+        background-color: #f0f2ff
+    }
+
+    .principle_circle_logo_block {
+        width: 22rem;
+        min-width: inherit;
+        height: 22rem;
+        padding: 1.8rem
+    }
+
+    .principle_camera {
+        width: 10.5rem;
+        height: 10.5rem;
+        top: 0;
+        left: 0
+    }
+
+    .principle_left_logo {
+        width: 15rem;
+        top: -4rem
+    }
+
+    .principle_block_right {
+        padding: 2rem 1.5em;
+        padding-top: 11.5rem
+    }
+
+    .team_slides_back {
+        height: calc(50% - 1rem)
+    }
+
+    .team_member_name,
+    .team_slides_back .team_member_name {
+        font-size: 2rem
+    }
+
+    .team_member_desc {
+        max-height: inherit;
+        font-size: 1.28rem
+    }
+
+    .contract_specifications_nav li {
+        min-width: calc(100% / 1);
+        max-width: calc(100% / 1)
+    }
+
+    .acd-blockimg {
+        max-width: 75%;
+        margin-left: 10%
+    }
+
+    .accounts_comparison_right_acd .account_type_list_btn .btn i {
+        display: none
+    }
+
+    .accounts_comparison_right_acd .account_type_list li.selected .account_type_list_btn .btn span {
+        font-size: .92rem;
+        align-self: center
+    }
+
+    .advance_trading_thumbnails .adv_trading_icon {
+        min-width: 8.5rem;
+        max-width: 8.5rem
+    }
+
+    .on_news_list_data_block {
+        padding: 0rem
+    }
+
+    .market_hubs_tray_left {
+        width: 15rem
+    }
+
+    .popular_market_hubs_heading {
+        font-size: 1.2rem
+    }
+
+    .market_hubs_name,
+    .market_utc_time {
+        font-size: 1rem
+    }
+
+    .currency_check_block_heading_left,
+    .currency_check_block_heading_right {
+        font-size: 1.2rem;
+        white-space: nowrap
+    }
+
+    .fx_inner_table {
+        padding-left: 0 !important;
+        padding-right: 0 !important
+    }
+
+    .table_fx thead th {
+        white-space: nowrap;
+        padding: 0 1rem
+    }
+
+    .table_fx thead th:first-child {
+        padding-left: 1rem
+    }
+
+    .crosses_sec .table_fx thead th:last-child {
+        padding-left: 2rem
+    }
+
+    .table_protect_money thead th {
+        white-space: normal
+    }
+
+    .risk_cal_sec1,
+    .risk_cal_sec2,
+    .risk_cal_sec3,
+    .risk_cal_sec4,
+    .risk_cal_sec5 {
+        padding: 0 .5rem
+    }
+
+    .paln_trade_table thead th {
+        white-space: normal
+    }
+
+    .risk_cal_sec_swap_fx {
+        flex-wrap: wrap
+    }
+
+    .leverage_and_margin_sec .contract_specifications_nav li a {
+        justify-content: flex-start
+    }
+
+    .invest_stock_list_full_block .invest_stock_list {
+        padding: 2rem 2.5rem
+    }
+
+    .invest_stock_list_full_block .invest_stock_list li {
+        margin-left: 15px
+    }
+
+    .bottom_time_block .time_block li {
+        min-width: initial;
+        flex: 1;
+        background-color: transparent;
+        color: #fff
+    }
+
+    .what_is_cfd_sec .market_history_thumbnail_img {
+        max-width: 100%
+    }
+
+    .analysis_icon {
+        width: 40px;
+        min-width: 40px
+    }
+
+    .analysis_desc_title {
+        font-size: 15px
+    }
+
+    .analysis_desc {
+        font-size: 13px
+    }
+
+    .analysis_top_btn {
+        display: flex;
+        justify-content: flex-start;
+        margin-left: 0
+    }
+
+    .analysis_top_btn i {
+        margin-left: auto
+    }
+
+    .analysis_video_article_slider_image {
+        height: 15rem
+    }
+
+    .analysis_video_article_desc {
+        margin: 15px
+    }
+
+    .analysis_video_thumb_play_icon {
+        width: 70px;
+        height: 70px
+    }
+
+    .analysis_video_thumb_play_icon>span:before {
+        width: 32px;
+        height: 32px
+    }
+
+    .analysis_video_article_btn {
+        min-height: 4rem;
+        font-size: 18px
+    }
+
+    .analysis_block_partner .partner-box .partner-img {
+        margin: 0 10px 10px 10px
+    }
+
+    .recentarticles_images {
+        max-width: 7.71rem;
+        min-width: 7.71rem;
+        height: 7.29rem
+    }
+
+    .why_inveslo_slider .slide_count_wrap {
+        margin-top: 2.5rem;
+    }
+
+    .globle_block .star_sec .star3 .box-right {
+        padding: 1rem;
+    }
+}

@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from inveslo.com/password/reset by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 18 Jun 2025 08:06:39 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="robots" content="follow, index, max-snippet: -1, max-video-preview: -1,max-image-preview: large" />
+<link rel="shortcut icon" type="image/x-icon" href="../assets/img/favicon.ico">
+
+
+<link rel="stylesheet" href="../assets/fonts/bootstrap/bootstrap-icons.css">
+<link rel="stylesheet" href="../assets/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="../assets/css/custom.css">
+            <link rel="stylesheet" type="text/css" href="../assets/css/media.css">
+            <link rel="stylesheet" type="text/css" href="../assets/css/developer.css">
+            
+</head>
+
+<body>
+    
+    <div class="signin_signup_sec">
+        <div class="signin_signup_header">
+    <nav class="navigation">
+        
+        
+        <a class="logo" href="../index.html" title="Inveslo"><img class="logo_normal" src="../assets/img/logo.svg" alt="Inveslo"></a>
+        <ul class="language_view d-inline-flex">
+            <li class="language_view_icon d-none d-xl-inline-flex"><img src="../assets/img/language.svg" alt="language" /></li>
+            <li class="nav-item">
+                <a class="language_drop dropdown_toggle" href="javascript:void(0);"><img class="mr-2" src="../assets/img/en_flag.svg" alt="flag" />EN</a>
+                
+                <div class="nav_dropdown">
+                    <ul class="language_drop_down_web">
+                        <li>
+                            <input name="language_select" data-val="en" type="radio" checked="" class="lange_chnage" />
+                            <div><img class="mr-3" src="../assets/img/en.svg" alt="flag">English <span class="language_radio"></span></div>
+                        </li>
+                        <li>
+                            <input name="language_select" data-val="es" type="radio" class="lange_chnage" />
+                            <div><img class="mr-3" src="../assets/img/es.svg" alt="flag">Español <span class="language_radio"></span></div>
+                        </li>
+                        <li>
+                            <input name="language_select" data-val="fa" type="radio" class="lange_chnage" id="fa"/>
+                            <div><img class="mr-3" src="../assets/img/fa.svg" alt="flag">فارسی <span class="language_radio"></span></div>
+                        </li>
+                        <li>
+                            <input name="language_select" data-val="tr" type="radio" class="lange_chnage" />
+                            <div><img class="mr-3" src="../modules/myinveslo/img/tr.svg" alt="flag">Turkce<span class="language_radio"></span></div>
+                        </li>
+                        <li>
+                            <input name="language_select" data-val="vi" type="radio" class="lange_chnage"/>
+                            <div><img class="mr-3" src="../assets/img/vi.svg" alt="flag">Tiếng Việt <span class="language_radio"></span></div>
+                        </li>
+                        <li>
+                            <input name="language_select" data-val="pt" type="radio" class="lange_chnage" />
+                            <div><img class="mr-3" src="../assets/img/pt.svg" alt="flag">Português <span class="language_radio"></span></div>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </nav>
+</div>                <div class="signin_signup_form_block d-block d-lg-flex">
+            <div class="signup_left_sec">
+                <div class="signup_left_data">
+                    <h1 class="signup_left_data_heading mb-4 mb-lg-5">Forgot your password? Don’t worry!' <small class="pt-3">Inveslo is here to the rescue!</small></h1>
+                    <p class="white_color mb-4">Let us show how easy resetting your password is!</p>
+                    <p class="white_color">All we need is your email address to send you recovery email, that’s all!</p>
+                </div>
+                
+            </div>
+            <div class="signup_right_sec mb-5">
+              
+                <form id="myformsub" class="w-100 form_block" style="max-width: 35.5rem;" method="post" action="https://inveslo.com/en/password/email" >
+                    <input type="hidden" name="_token" value="EtzcOs0GJ6jeeexZn88o6uMPUfcnrESuFQs668DO">                    <a class="form_back_link mb-4" href="../login.html"><i class="bi bi-arrow-left mr-3"></i>Back To Login</a>
+                    <div class="form_heading mb-5">Forgot Password?<small class="pt-2">Just Enter your Email Address  and Check Your Inbox.</small></div>
+                                        <div class="form-group mb-4">
+                        <div class="input_effects">
+                            <input class="input_effect email_address" type="email" name="email" placeholder="" />
+                            <label>Email</label>
+                    </div>
+                                        </div>
+                     <input type="hidden" name="email_error" id="email_error" value="This field is required">
+                     <input type="hidden" name="captcha_error" id="captcha_error" value="This field is required">
+                     <input type="hidden" name="valid_email_error" id="valid_email_error" value="Please enter a valid email address">
+                     
+                     <div class="row">
+                         <div class="col-sm-6">
+                            <a href="javascript:void(0)" onclick="refreshCaptcha()">
+                            <div class="form-group refereshrecapcha captcha_image">
+                                <div class="input_effects right_icon_view">
+                                       <img src="../captcha/default509c.png?COskoXIx" >                                </div>
+                            </div>
+                        </a>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group ">
+                                <div class="input_effects right_icon_view ">
+                                    <input type="text" class="input_effect password" name="captcha" id="captcha">
+                                    <label>Captcha</label>
+                                  
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+
+                    <div class="login_signup_btns">
+                        <button type="submit" class="btn">Send Reset Link</button>
+                    </div>
+                </form>
+            </div>
+            <ul class="signup_left_data_list d-none my-5 my-lg-0">
+                <li><div class="signup_left_data_list_icon mr-4"><img src="../assets/img/signup_left_data_list_icon1.svg" alt="signup" /></div> Enjoy seamlesss trading with Lightning-fast execution speeds</li>
+                <li><div class="signup_left_data_list_icon mr-4"><img src="../assets/img/signup_left_data_list_icon2.svg" alt="signup" /></div> Your funds are kept safe at reputable banks.</li>
+                <li><div class="signup_left_data_list_icon mr-4"><img src="../assets/img/signup_left_data_list_icon3.svg" alt="signup" /></div> Trade on a platform trusted by millions of users.</li>
+                <li><div class="signup_left_data_list_icon mr-4"><img src="../assets/img/signup_left_data_list_icon4.svg" alt="signup" /></div> We value and respect your privacy.</li>
+            </ul>
+        </div>
+    </div>
+    </div>
+    <script type="text/javascript" src="../assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="../assets/js/font-awesome.js"></script>
+    <script type="text/javascript" src="../assets/js/bootstrap.bundle.min.js"></script>
+    <!-- Slick -->
+    <link rel="stylesheet" type="text/css" href="../assets/slick/slick.min.css">
+    <script type="text/javascript" src="../assets/slick/slick.min.js"></script>
+    <!-- Slick -->
+    <script type="text/javascript" src="../assets/js/counter.min.js"></script>
+    <!-- sticky -->
+    <script type="text/javascript" src="../assets/js/jquery.sticky-kit.js"></script>
+    <!-- sticky -->
+            <script type="text/javascript" src="../assets/js/custom2.js"></script>
+        
+    <script type="text/javascript" src="../assets/js/jquery.validate.min.js"></script>
+    <script src="../assets/js/sweetalert.min.js"></script>
+    
+        <script type="text/javascript">
+    $(document).ready(function () {
+    var email_msg             = $('#email_error').val();
+    var captcha_msg           = $('#captcha_error').val();
+    var valid_email           = $('#valid_email_error').val();
+        
+        $( "#myformsub" ).validate({
+            errorElement: 'div',
+            errorClass: 'error-field',
+            rules: {
+              email: { required: true, email: true },
+              captcha: { required: true },
+            },
+    messages: {
+            email: {
+                required: email_msg,
+                email: valid_email,
+
+            },
+            captcha: {
+                required: captcha_msg,
+            }
+        },
+        });
+
+            });
+</script>
+<script>
+    $(".lange_chnage").click(function(e) {
+        var val = $(this).data("val");
+         if(val == "en")
+            window.location.href = "reset.html";
+          else
+            window.location.href = "https://inveslo.com/"+val+'/password/reset';
+        
+                // let c = [];
+                // for (let a = 2; a < location.pathname.split("/").length; a++) c.push(location.pathname.split("/")[a]);
+                //     alert(location.origin + "/" + val + "/" + c.join("/") + window.location.hash )
+                // window.location.href = location.origin + "/" + val + "/" + c.join("/") + window.location.hash; 
+    
+    });
+    function refreshCaptcha(){
+        $.ajax({
+        url: 'https://inveslo.com/refereshcapcha',
+        type: 'get',
+          dataType: 'html',        
+          success: function(json) {
+            $('.refereshrecapcha').html(json);
+          },
+          error: function(data) {
+            alert('Try Again.');
+          }
+        });
+    }
+</script>
+
+    <script src="../../code.tidio.co_443/ercglqwyr4zyzwcxrfbp1mmk0pnw54r0.js" async></script>
+</body>
+
+<!-- Mirrored from inveslo.com/password/reset by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 18 Jun 2025 08:06:40 GMT -->
+</html>
